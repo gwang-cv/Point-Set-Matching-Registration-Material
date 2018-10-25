@@ -84,7 +84,7 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 
 ###### Classical databases
 
-- [2D Synthesized Chui-Rangarajan Dataset](https://www.cise.ufl.edu/~anand/students/chui/research.html)
+- [2D Synthesized Chui-Rangarajan Dataset (deformation, noise, and outliers)](https://www.cise.ufl.edu/~anand/students/chui/research.html)
 - [TOSCA](http://tosca.cs.technion.ac.il/book/resources_data.html)
 - [Multi-View Stereo Dataset](http://vision.middlebury.edu/mview/data/)
 - [Multi-View Stereo for Community Photo Collections](http://grail.cs.washington.edu/projects/mvscpc/)
@@ -108,6 +108,7 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 - [Stanford 3D Scanning](http://graphics.stanford.edu/data/3Dscanrep/)
 - [MPI FAUST Dataset](http://faust.is.tue.mpg.de/)
 - [Mikolajczyk Database](http://lear.inrialpes.fr/people/mikolajczyk/Database/index.html)
+- [Panoramic Image Database](http://www.ti.uni-bielefeld.de/html/research/avardy/index.html)
 
 ###### Other databases
 
