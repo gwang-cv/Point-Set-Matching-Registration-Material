@@ -53,6 +53,15 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 - [DGM] Deformable Graph Matching, CVPR'2013 [[code]](https://github.com/zhfe99/fgm)
 - [MS] Progressive mode-seeking on graphs for sparse feature matching, ECCV'2014
 
+###### Other Related Works
+
+- [DM-CNN] Descriptor Matching with Convolutional Neural Networks: a Comparison to SIFT, arXiv'2014
+- [DASC] DASC: Robust Dense Descriptor for Multi-modal and Multi-spectral Correspondence Estimation, TPAMI'2017 [[project]](http://diml.yonsei.ac.kr/~srkim/DASC/)
+- [MODS] MODS: Fast and Robust Method for Two-View Matching, CVIU'2015 [[project]](http://cmp.felk.cvut.cz/wbs/)
+- [Elastic2D3D] Efficient Globally Optimal 2D-to-3D Deformable Shape Matching, CVPR'2016 [[project]](https://vision.in.tum.de/~laehner/Elastic2D3D/)
+- [TCDCN] Facial Landmark Detection by Deep Multi-task Learning, ECCV'2014 [[project]](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html)
+
+
 #### Applications
 
 ###### Remote Sensing Image Registration
@@ -61,6 +70,7 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 
 ###### Retinal Image Registration
 - [DB-ICP] The dual-bootstrap iterative closest point algorithm with application to retinal image registration, TMI'2003
+- [GDB-ICP] Registration of Challenging Image Pairs: Initialization, Estimation, and Decision, TPAMI'2007 [[project]](http://www.vision.cs.rpi.edu/gdbicp/)
 - [ED-DB-ICP] The edge-driven dual-bootstrap iterative closest point algorithm for registration of multimodal fluorescein angiogram sequence, TMI'2010
 - [RPM-SURFPIIFD] Robust point matching method for multimodal retinal image registration, BSPC'2015
 
@@ -73,21 +83,41 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 #### Databases
 
 ###### Classical databases
+
 - [2D Synthesized Chui-Rangarajan Dataset](https://www.cise.ufl.edu/~anand/students/chui/research.html)
 - [TOSCA](http://tosca.cs.technion.ac.il/book/resources_data.html)
-- [Mythological creatures 2D](http://tosca.cs.technion.ac.il/book/resources_data.html)
-- [Tools 2D](http://tosca.cs.technion.ac.il/book/resources_data.html)
-- [Human face](http://tosca.cs.technion.ac.il/book/resources_data.html)
+- [Multi-View Stereo Dataset](http://vision.middlebury.edu/mview/data/)
+- [Multi-View Stereo for Community Photo Collections](http://grail.cs.washington.edu/projects/mvscpc/)
 - [VGG Affine Datasets](http://www.robots.ox.ac.uk/~vgg/data/data-aff.html)
+- [Multi-view VGG's Dataset](http://www.robots.ox.ac.uk/~vgg/data1.html)
+- [Oxford Building Reconstruction](http://www.robots.ox.ac.uk/~vgg/data2.html)
 - [IMM Datasets](http://www.imm.dtu.dk/~aam/datasets/datasets.html)
 - [MPEG7 CE Shape-1 Part B](http://www.imageprocessingplace.com/downloads_V3/root_downloads/image_databases/MPEG7_CE-Shape-1_Part_B.zip)
 - [Leaf Shapes Database](http://www.imageprocessingplace.com/downloads_V3/root_downloads/image_databases/leaf%20shape%20database/leaf_shapes_downloads.htm)
+- [CMU House/Hotel Sequence Images]
+- [Generated Matching Dataset](https://lmb.informatik.uni-freiburg.de/resources/datasets/genmatch.en.html)
+- [Image Sequences](https://lmb.informatik.uni-freiburg.de/resources/datasets/sequences.en.html) 
+- [Mythological creatures 2D](http://tosca.cs.technion.ac.il/book/resources_data.html)
+- [Tools 2D](http://tosca.cs.technion.ac.il/book/resources_data.html)
+- [Human face](http://tosca.cs.technion.ac.il/book/resources_data.html)
+- [Cars & Motorbikes](https://drive.google.com/drive/folders/0B7CshFGxfi_5RVoyYzFyMUhuZnM)
+- [DIML Multimodal Benchmark](http://diml.yonsei.ac.kr/~srkim/DASC/DIMLmultimodal/)
+- [Street View Dataset](http://3drepresentation.stanford.edu/) [[github]](https://github.com/amir32002/3D_Street_View) [[data]](https://console.cloud.google.com/storage/browser/streetview_image_pose_3d)
+- [EVD: Extreme View Dataset](http://cmp.felk.cvut.cz/wbs/datasets/EVD.zip) [[EVD_tentatives]](http://cmp.felk.cvut.cz/wbs/datasets/EVD_tentatives.zip) [[EZD]](http://cmp.felk.cvut.cz/wbs/datasets/ExtremeZoomDataset.zip)
+- [WxBS: Wide Baseline Dataset](http://cmp.felk.cvut.cz/wbs/datasets/WxBS-dataset.zip) [[W1BS]](http://cmp.felk.cvut.cz/wbs/datasets/W1BS.tar.gz)
+- [Stanford 3D Scanning](http://graphics.stanford.edu/data/3Dscanrep/)
+- [MPI FAUST Dataset](http://faust.is.tue.mpg.de/)
+- [Mikolajczyk Database](http://lear.inrialpes.fr/people/mikolajczyk/Database/index.html)
 
 ###### Other databases
-- [Cars & Motorbikes](https://drive.google.com/drive/folders/0B7CshFGxfi_5RVoyYzFyMUhuZnM)
+
+- [FIRE: Fundus Image Registration Dataset](https://www.ics.forth.gr/cvrl/fire/)
 - [DRIVE (Retinal Images)](http://www.isi.uu.nl/Research/Databases/DRIVE/)
 - [DRIONS-DB (Retinal Images)](http://www.ia.uned.es/~ejcarmona/DRIONS-DB.html)
 - [STARE (Retinal Images)](http://cecas.clemson.edu/~ahoover/stare/)
 - [Plant Images](https://www.plant-phenotyping.org/datasets-download)
 - [MR Prostate Images](https://bigr-xnat.erasmusmc.nl/)
-- [CVImages](http://www.cs.cmu.edu/afs/cs/project/cil/www/v-images.html)
+- [CV Images](http://www.cs.cmu.edu/afs/cs/project/cil/www/v-images.html)
+- [ETHZ Datasets](http://www.vision.ee.ethz.ch/en/datasets/)
+- [CVPapers](http://www.cvpapers.com/datasets.html)
+- [YACVID](https://riemenschneider.hayko.at/vision/dataset)
