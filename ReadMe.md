@@ -4,6 +4,8 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 
 #### Point Set Matching/Registration Methods
 
+###### Point Matching/Registration Methods
+
 - [ICP] A Method for Registration of 3-D Shapes, TPAMI'1992
 - [RPM] New algorithms for 2d and 3d point matching: pose estimation and correspondence, PR'1998
 - [SC] Shape matching and object recognition using shape contexts, TPAMI'2002
@@ -25,7 +27,8 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 - [SCGF] Robust Non-rigid Point Set Registration Using Spatially Constrained Gaussian Fields, TIP'2017
 - [LPM] Locality preserving matching, IJCV'2018
 
-#### Mismatch Removal Methods
+###### Mismatch Removal Methods
+
 - [RANSAC] Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography, 1981
 - [MLESAC] MLESAC: A new robust estimator with application to estimating image geometry, CVIU'2000
 - [PROSAC] Matching with PROSAC-progressive sample consensus, CVPR'2005
@@ -37,7 +40,8 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 - [WxBS] WxBS: Wide Baseline Stereo Generalizations, BMVC'2015
 - [GFC] Gaussian Field Consensus: A Robust Nonparametric Matching Method for Outlier Rejection, PR'2018
 
-#### Graph Matching
+###### Graph Matching Methods
+
 - [SM] A spectral technique for correspondence problems using pairwise constraints, ICCV'2005 [[code]](https://sites.google.com/site/graphmatchingmethods/Code_including_Spectral_Matching.zip?attredirects=0)
 - [SM-MAP] Efficient MAP approximation for dense energy functions, ICML'2006 [[code]](https://sites.google.com/site/graphmatchingmethods/Code_including_IPFP_and_L2QP_for_MAP_Inference.zip?attredirects=0)
 - [SMAC] Balanced Graph Matching, NIPS'2006 [[code]](http://www.timotheecour.com/software/graph_matching/graph_matching.html)
@@ -51,19 +55,19 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 
 #### Applications
 
-##### Remote Sensing Image Registration
+###### Remote Sensing Image Registration
 - [LLT] Robust Feature Matching for Remote Sensing Image Registration via Locally Linear Transforming, TGRS'2015
 - [GLPM] Guided Locality Preserving Feature Matching for Remote Sensing Image Registration, TGRS'2018
 
-##### Retinal Image Registration
+###### Retinal Image Registration
 - [DB-ICP] The dual-bootstrap iterative closest point algorithm with application to retinal image registration, TMI'2003
 - [ED-DB-ICP] The edge-driven dual-bootstrap iterative closest point algorithm for registration of multimodal fluorescein angiogram sequence, TMI'2010
 - [RPM-SURFPIIFD] Robust point matching method for multimodal retinal image registration, BSPC'2015
 
-##### Visual Homing Navigation
+###### Visual Homing Navigation
 - [GLPM] Visual Homing via Guided Locality Preserving Matching, ICRA'2018
 
-##### HDR Imaging
+###### HDR Imaging
 - [LNR] Locally non-rigid registration for mobile HDR photography, CVPRW'2015
 
 #### Databases
@@ -79,7 +83,7 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 - [MPEG7 CE Shape-1 Part B](http://www.imageprocessingplace.com/downloads_V3/root_downloads/image_databases/MPEG7_CE-Shape-1_Part_B.zip)
 - [Leaf Shapes Database](http://www.imageprocessingplace.com/downloads_V3/root_downloads/image_databases/leaf%20shape%20database/leaf_shapes_downloads.htm)
 
-##### other databases
+###### Other databases
 - [Cars & Motorbikes](https://drive.google.com/drive/folders/0B7CshFGxfi_5RVoyYzFyMUhuZnM)
 - [DRIVE (Retinal Images)](http://www.isi.uu.nl/Research/Databases/DRIVE/)
 - [DRIONS-DB (Retinal Images)](http://www.ia.uned.es/~ejcarmona/DRIONS-DB.html)
