@@ -109,6 +109,7 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 - [MPI FAUST Dataset](http://faust.is.tue.mpg.de/)
 - [Mikolajczyk Database](http://lear.inrialpes.fr/people/mikolajczyk/Database/index.html)
 - [Panoramic Image Database](http://www.ti.uni-bielefeld.de/html/research/avardy/index.html)
+- [PS-Dataset (A Large Dataset for improving Patch Matching, PhotoSynth Dataset for improving local patch Descriptors)](https://github.com/rmitra/PS-Dataset)
 
 ###### Other databases
 
