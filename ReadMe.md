@@ -55,11 +55,18 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 
 ###### Other Related Works
 
+- [RootSIFT] Three things everyone should know to improve object retrieval, CVPR'2012 [[related code]](https://www.pyimagesearch.com/2015/04/13/implementing-rootsift-in-python-and-opencv/#)
 - [DM-CNN] Descriptor Matching with Convolutional Neural Networks: a Comparison to SIFT, arXiv'2014
 - [DASC] DASC: Robust Dense Descriptor for Multi-modal and Multi-spectral Correspondence Estimation, TPAMI'2017 [[project]](http://diml.yonsei.ac.kr/~srkim/DASC/)
-- [MODS] MODS: Fast and Robust Method for Two-View Matching, CVIU'2015 [[project]](http://cmp.felk.cvut.cz/wbs/)
+- [MODS] MODS: Fast and Robust Method for Two-View Matching, CVIU'2015 [[project]](http://cmp.felk.cvut.cz/wbs/) [[github]](https://github.com/ducha-aiki/mods)
 - [Elastic2D3D] Efficient Globally Optimal 2D-to-3D Deformable Shape Matching, CVPR'2016 [[project]](https://vision.in.tum.de/~laehner/Elastic2D3D/)
 - [TCDCN] Facial Landmark Detection by Deep Multi-task Learning, ECCV'2014 [[project]](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html)
+
+###### deep features
+- [TFeat] Learning local feature descriptors with triplets and shallow convolutional neural networks, BMVC'2016 [[github]](https://github.com/vbalnt/tfeat)
+- [L2-Net] L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space, CVPR'2017 [[github]](https://github.com/yuruntian/L2-Net)
+- [HardNet] Working hard to know your neighbor's margins: Local descriptor learning loss, CVPR'2018 [[github]](https://github.com/DagnyT/hardnet/tree/master)
+- [AffNet] Repeatability Is Not Enough: Learning Discriminative Affine Regions via Discriminability, ECCV'2018 [[github]](https://github.com/ducha-aiki/affnet)
 
 
 #### Applications
