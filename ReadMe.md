@@ -1,5 +1,7 @@
 # Point Set Matching/Registration Benchmark
 
+![](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 A list of point set matching/registration resources collected by [Gang Wang](https://sites.google.com/site/2013gwang/). If you find that important resources are not included, please feel free to contact me.
 
 #### Point Set Matching/Registration Methods
