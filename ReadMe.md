@@ -63,6 +63,7 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 - [MODS] MODS: Fast and Robust Method for Two-View Matching, CVIU'2015 [[project]](http://cmp.felk.cvut.cz/wbs/) [[github]](https://github.com/ducha-aiki/mods)
 - [Elastic2D3D] Efficient Globally Optimal 2D-to-3D Deformable Shape Matching, CVPR'2016 [[project]](https://vision.in.tum.de/~laehner/Elastic2D3D/)
 - [TCDCN] Facial Landmark Detection by Deep Multi-task Learning, ECCV'2014 [[project]](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html)
+- [Open3D] [http://www.open3d.org/](http://www.open3d.org/)
 
 ###### deep features
 - [TFeat] Learning local feature descriptors with triplets and shallow convolutional neural networks, BMVC'2016 [[github]](https://github.com/vbalnt/tfeat)
