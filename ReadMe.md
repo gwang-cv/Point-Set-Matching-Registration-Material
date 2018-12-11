@@ -29,7 +29,8 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 - [SCGF] Robust Non-rigid Point Set Registration Using Spatially Constrained Gaussian Fields, TIP'2017
 - [LPM] Locality preserving matching, IJCV'2018
 - [DARE] Density adaptive point set registration, CVPR'2018 [[pdf]](https://arxiv.org/pdf/1804.01495.pdf) [[code]](https://github.com/felja633/DAREs)
-- [DLD] Dependent landmark drift: robust point set registration with aGaussian mixture model and a statistical shape model [[pdf]](https://arxiv.org/pdf/1711.06588)
+- [DLD] Dependent landmark drift: robust point set registration with aGaussian mixture model and a statistical shape model, arxiv'2018 [[pdf]](https://arxiv.org/pdf/1711.06588)
+- [APSR] Adversarial point set registration, arxiv'2018 [[pdf]](https://arxiv.org/abs/1811.08139)
 
 ###### Mismatch Removal Methods
 
