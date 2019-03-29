@@ -26,6 +26,7 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 - [GO-APM] An Efficient Globally Optimal Algorithm for Asymmetric Point Matching, TPAMI'2016
 - [PR-GLS] Non-Rigid Point Set Registration by Preserving Global and Local Structures, TIP'2016
 - [PM] Probabilistic Model for Robust Affine and Non-rigid Point Set Matching, TPAMI'2016
+- [CA-LapGF] Context-Aware Gaussian Fields for Non-rigid Point Set Registration, CVPR'2016
 - [SCGF] Robust Non-rigid Point Set Registration Using Spatially Constrained Gaussian Fields, TIP'2017
 - [LPM] Locality preserving matching, IJCV'2018
 - [DARE] Density adaptive point set registration, CVPR'2018 [[pdf]](https://arxiv.org/pdf/1804.01495.pdf) [[code]](https://github.com/felja633/DAREs)
