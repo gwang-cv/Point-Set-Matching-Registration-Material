@@ -45,7 +45,7 @@ A list of point set matching/registration resources collected by [Gang Wang](htt
 - [TC] Epipolar geometry estimation for wide baseline stereo by Clustering Pairing Consensus, PRL'2014
 - [WxBS] WxBS: Wide Baseline Stereo Generalizations, BMVC'2015
 - [GFC] Gaussian Field Consensus: A Robust Nonparametric Matching Method for Outlier Rejection, PR'2018
-- [LMR] LMR: Learning A Two-class Classifier forMismatch Removal, TIP'2019
+- [LMR] LMR: Learning A Two-class Classifier for Mismatch Removal, TIP'2019
 
 ###### Graph Matching Methods
 
