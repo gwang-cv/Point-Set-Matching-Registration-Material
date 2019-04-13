@@ -1,6 +1,5 @@
 # Point Set Matching/Registration Material
 
-![](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 #### Point Set Matching/Registration Methods
 
