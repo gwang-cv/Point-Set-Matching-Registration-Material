@@ -18,13 +18,10 @@
 - [RPM-L2E] Robust estimation of nonrigid transformation for point set registration, CVPR'2013
 - [GO-ICP] Go-ICP: Solving 3D Registration Efficiently and Globally Optimally, ICCV'2013
 - [RPM-VFC] Robust Point Matching via Vector Field Consensus, TIP'2014
-- [MoAGReg] A robust non-rigid point set registration method based on asymmetric gaussian representation, CVIU'2015
 - [GLMD-TPS] A robust global and local mixture distance based non-rigid point set registration, PR'2015
 - [GO-APM] An Efficient Globally Optimal Algorithm for Asymmetric Point Matching, TPAMI'2016
 - [PR-GLS] Non-Rigid Point Set Registration by Preserving Global and Local Structures, TIP'2016
 - [PM] Probabilistic Model for Robust Affine and Non-rigid Point Set Matching, TPAMI'2016
-- [CA-LapGF] Context-Aware Gaussian Fields for Non-rigid Point Set Registration, CVPR'2016
-- [SCGF] Robust Non-rigid Point Set Registration Using Spatially Constrained Gaussian Fields, TIP'2017
 - [LPM] Locality preserving matching, IJCV'2018
 - [DARE] Density adaptive point set registration, CVPR'2018 [[pdf]](https://arxiv.org/pdf/1804.01495.pdf) [[code]](https://github.com/felja633/DAREs)
 - [DLD] Dependent landmark drift: robust point set registration with aGaussian mixture model and a statistical shape model, arxiv'2018 [[pdf]](https://arxiv.org/pdf/1711.06588)
@@ -41,7 +38,6 @@
 - [DefRANSAC] In defence of RANSAC for outlier rejection in deformable registration, ECCV'2012 
 - [TC] Epipolar geometry estimation for wide baseline stereo by Clustering Pairing Consensus, PRL'2014
 - [WxBS] WxBS: Wide Baseline Stereo Generalizations, BMVC'2015
-- [GFC] Gaussian Field Consensus: A Robust Nonparametric Matching Method for Outlier Rejection, PR'2018
 - [LMR] LMR: Learning A Two-class Classifier for Mismatch Removal, TIP'2019
 
 ###### Graph Matching Methods
@@ -84,7 +80,6 @@
 - [DB-ICP] The dual-bootstrap iterative closest point algorithm with application to retinal image registration, TMI'2003
 - [GDB-ICP] Registration of Challenging Image Pairs: Initialization, Estimation, and Decision, TPAMI'2007 [[project]](http://www.vision.cs.rpi.edu/gdbicp/)
 - [ED-DB-ICP] The edge-driven dual-bootstrap iterative closest point algorithm for registration of multimodal fluorescein angiogram sequence, TMI'2010
-- [RPM-SURFPIIFD] Robust point matching method for multimodal retinal image registration, BSPC'2015
 
 ###### Visual Homing Navigation
 - [GLPM] Visual Homing via Guided Locality Preserving Matching, ICRA'2018
