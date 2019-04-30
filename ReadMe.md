@@ -5,18 +5,41 @@
 
 ###### Point Matching/Registration Methods
 
+- [MCT] A mathematical analysis of the motion coherence theory, IJCV'1989
 - [ICP] A Method for Registration of 3-D Shapes, TPAMI'1992
 - [RPM] New algorithms for 2d and 3d point matching: pose estimation and correspondence, PR'1998
 - [SC] Shape matching and object recognition using shape contexts, TPAMI'2002
+- [LM-ICP] Robust registration of 2D and 3D point sets, IVC'2003
 - [RPM-TPS] A new point matching algorithm for non-rigid registration, CVIU'2003
+- [Survey] Image registration methods: a survey, IVC'2003
 - [KC] A correlation-based approach to robust point set registration, ECCV'2004
+- [3DSC] Recognizing objects in range data using regional point descriptors, ECCV'2004
 - [RPM-PLNS] Robust point matching for nonrigid shapes by preserving local neighborhood structures, TPAMI'2006
+- [IT-FFD] Shape registration in implicit spaces using information theory and free form deformations, TPAMI'2006
+- [CDC] Simultaneous covariance driven correspondence (cdc) and transformation estimation in the expectation maximization framework, CVPR'2007
+- [Nonrigid-ICP] Optimal step nonrigid icp algorithms for surface registration, CVPR'2007
+- [PF] Particle filtering for registration of 2D and 3D point sets with stochastic dynamics, CVPR'2008
+- [JS] Simultaneous nonrigid registration of multiple point sets and atlas construction, TPAMI'2008
+- [SMM] The mixtures of Student’s t-distributions as a robust framework for rigid registration, IVC'2009
+- [Algebraic-PSR] An Algebraic Approach to Affine Registration of Point Sets, ICCV'2009
+- [SM] Subspace matching: Unique solution to point matching with geometric constraints, ICCV'2009
+- [FPFH] Fast Point Feature Histograms (FPFH) for 3D Registration, ICRA'2009
+- [GO] Global optimization for alignment of generalized shapes, CVPR'2009
+- [ISO] Isometric registration of ambiguous and partial data, CVPR'2009
 - [GF] A new method for the registration of three-dimensional point-sets: The Gaussian fields framework, IVC'2010
+- [RotInv] Rotation invariant non-rigid shape matching in cluttered scenes, ECCV'2010
+- [CDFHC] Group-wise point-set registration using a novel cdf-based havrda-charvát divergence, IJCV'2010
 - [QPCCP] A quadratic programming based cluster correspondence projection algorithm for fast point matching, CVIU'2010
+- [nonrigidCPD] Non-rigid point set registration: Coherent point drift, NIPS'2007
 - [CPD] Point set registration: Coherent point drift, TPAMI'2010
+- [PFSD] Point set registration via particle filtering and stochastic dynamics, TPAMI'2010
+- [ECMPR] Rigid and articulated point registration with expectation conditional maximization, TPAMI'2011
 - [GMMReg/L2E-TPS] Robust point set registration using gaussian mixture models, TPAMI'2011
+- [ECMPR] Rigid and articulated point registration with expectation conditional maximization, TPAMI'2011
+- [EM-ICP] Robust point set registration using EM-ICP with information-theoretically optimal outlier handling, CVPR'2011
 - [RPM-L2E] Robust estimation of nonrigid transformation for point set registration, CVPR'2013
 - [GO-ICP] Go-ICP: Solving 3D Registration Efficiently and Globally Optimally, ICCV'2013
+- [JRMPC] A Generative Model for the Joint Registration of Multiple Point Sets, ECCV'2014
 - [RPM-VFC] Robust Point Matching via Vector Field Consensus, TIP'2014
 - [GLMD-TPS] A robust global and local mixture distance based non-rigid point set registration, PR'2015
 - [GO-APM] An Efficient Globally Optimal Algorithm for Asymmetric Point Matching, TPAMI'2016
