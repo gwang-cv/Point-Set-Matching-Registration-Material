@@ -69,6 +69,7 @@
 - [RPM-L2E] Robust L2E estimation of transformation for non-rigid registration, TSP'2015 [[code]](https://github.com/jiayi-ma?tab=repositories)
 - [GLR] Robust Nonrigid Point Set Registration Using Graph-Laplacian Regularization, WACV'2015
 - [FPPSR] Aligning the dissimilar: A probabilistic method for feature-based point set registration, ICPR'2016
+- [IPDA] Point Clouds Registration with Probabilistic Data Association, IROS'2016 [[code]](https://github.com/ethz-asl/robust_point_cloud_registration)
 - [color-PSR] A probabilistic framework for color-based point set registration, CVPR'2016
 - [Gogma] Gogma: Globally-optimal gaussian mixture alignment, CVPR'2016
 - [GO-APM] An Efficient Globally Optimal Algorithm for Asymmetric Point Matching, TPAMI'2016 [[project]](http://www4.comp.polyu.edu.hk/~cslzhang/APM.htm) [[code]](http://www4.comp.polyu.edu.hk/~cslzhang/APM_files/data/RPM_COV_source_code.rar)
@@ -241,3 +242,7 @@ Nonparametric Mixtures, CVPR'2017 [[code]](https://github.com/jstraub/dpOptTrans
 - [CVPapers](http://www.cvpapers.com/datasets.html)
 - [YACVID](https://riemenschneider.hayko.at/vision/dataset)
 - [Intelligent remote sensing data analyis](http://mplab.sztaki.hu/remotesensing/index.html)
+
+###### tools
+
+- [PCL] Point Cloud Library [[code]](https://github.com/PointCloudLibrary/pcl) [[pypcl]](https://github.com/strawlab/python-pcl)
