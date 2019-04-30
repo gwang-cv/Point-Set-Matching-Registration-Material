@@ -36,10 +36,17 @@
 - [ECMPR] Rigid and articulated point registration with expectation conditional maximization, TPAMI'2011
 - [GMMReg/L2E-TPS] Robust point set registration using gaussian mixture models, TPAMI'2011
 - [ECMPR] Rigid and articulated point registration with expectation conditional maximization, TPAMI'2011
+- [TPRL] Topology preserving relaxation labeling for nonrigid point matching, TPAMI'2011
 - [EM-ICP] Robust point set registration using EM-ICP with information-theoretically optimal outlier handling, CVPR'2011
+- [RHIM] A robust hybrid method for nonrigid image registration, PR'2011
+- [ISC] Intrinsic shape context descriptors for deformable shapes, CVPR'2012
+- [RPM-Concave] Robust point matching revisited: A concave optimization approach, ECCV'2012
 - [RPM-L2E] Robust estimation of nonrigid transformation for point set registration, CVPR'2013
 - [GO-ICP] Go-ICP: Solving 3D Registration Efficiently and Globally Optimally, ICCV'2013
+- [Survey] Registration of 3D point clouds and meshes: a survey from rigid to nonrigid, TVCG'2013
+- [NMM] Diffeomorphic Point Set Registration Using Non-Stationary Mixture Models, ISBI'2013
 - [JRMPC] A Generative Model for the Joint Registration of Multiple Point Sets, ECCV'2014
+- [Thesis] Point Matching Based on Non-Parametric Model, Jiayi Ma, 2014
 - [RPM-VFC] Robust Point Matching via Vector Field Consensus, TIP'2014
 - [GLMD-TPS] A robust global and local mixture distance based non-rigid point set registration, PR'2015
 - [GO-APM] An Efficient Globally Optimal Algorithm for Asymmetric Point Matching, TPAMI'2016
@@ -96,6 +103,7 @@
 - [Elastic2D3D] Efficient Globally Optimal 2D-to-3D Deformable Shape Matching, CVPR'2016 [[project]](https://vision.in.tum.de/~laehner/Elastic2D3D/)
 - [TCDCN] Facial Landmark Detection by Deep Multi-task Learning, ECCV'2014 [[project]](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html)
 - [Open3D] [http://www.open3d.org/](http://www.open3d.org/)
+- [LAI] Object matching using a locally affine invariant and linear programming techniques, TPAMI'2013
 
 ###### deep features
 - [TFeat] Learning local feature descriptors with triplets and shallow convolutional neural networks, BMVC'2016 [[github]](https://github.com/vbalnt/tfeat)
@@ -106,6 +114,8 @@
 
 #### Applications
 
+- Robust feature set matching for partial face recognition, CVPR'2013
+
 ###### Remote Sensing Image Registration
 - [LLT] Robust Feature Matching for Remote Sensing Image Registration via Locally Linear Transforming, TGRS'2015
 - [GLPM] Guided Locality Preserving Feature Matching for Remote Sensing Image Registration, TGRS'2018
@@ -114,6 +124,9 @@
 - [DB-ICP] The dual-bootstrap iterative closest point algorithm with application to retinal image registration, TMI'2003
 - [GDB-ICP] Registration of Challenging Image Pairs: Initialization, Estimation, and Decision, TPAMI'2007 [[project]](http://www.vision.cs.rpi.edu/gdbicp/)
 - [ED-DB-ICP] The edge-driven dual-bootstrap iterative closest point algorithm for registration of multimodal fluorescein angiogram sequence, TMI'2010
+
+###### Palmprint Image Registration
+- [RERPM] Robust and efficient ridge-based palmprint matching, TPAMI'2012
 
 ###### Visual Homing Navigation
 - [GLPM] Visual Homing via Guided Locality Preserving Matching, ICRA'2018
