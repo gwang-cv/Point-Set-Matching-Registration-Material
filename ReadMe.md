@@ -26,6 +26,10 @@
 - [DARE] Density adaptive point set registration, CVPR'2018 [[pdf]](https://arxiv.org/pdf/1804.01495.pdf) [[code]](https://github.com/felja633/DAREs)
 - [DLD] Dependent landmark drift: robust point set registration with aGaussian mixture model and a statistical shape model, arxiv'2018 [[pdf]](https://arxiv.org/pdf/1711.06588)
 - [APSR] Adversarial point set registration, arxiv'2018 [[pdf]](https://arxiv.org/abs/1811.08139)
+- [PR-Net] Non-Rigid Point Set Registration Networks, arxiv'2019
+- [SDRSAC] SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences, arxiv'2019
+- [3DRegNet] 3DRegNet: A Deep Neural Network for 3D Point Registration, arxiv'2019
+- [PointNetLK] PointNetLK: Robust & Efficient Point Cloud Registration using PointNet, arxiv'2019
 
 ###### Mismatch Removal Methods
 
@@ -36,9 +40,16 @@
 - [GS] Common visual pattern discovery via spatially coherent correspondences, CVPR'2010
 - [VFC] A robust method for vector field learning with application to mismatch removing, CVPR'2011
 - [DefRANSAC] In defence of RANSAC for outlier rejection in deformable registration, ECCV'2012 
+- [AGMM] Asymmetrical Gauss Mixture Models for Point Sets Matching, CVPR'2014
 - [TC] Epipolar geometry estimation for wide baseline stereo by Clustering Pairing Consensus, PRL'2014
 - [WxBS] WxBS: Wide Baseline Stereo Generalizations, BMVC'2015
+- [SIM] The shape interaction matrix-based affine invariant mismatch removal for partial-duplicate image search, TIP'2017
+- [DSAC] DSAC: differentiable RANSAC for camera localization, CVPR'2017
+- [LFGC] Learning to Find Good Correspondences, CVPR'2018
+- [LPM] Locality preserving matching, IJCV'2018
 - [LMR] LMR: Learning A Two-class Classifier for Mismatch Removal, TIP'2019
+- [PFFM] Progressive Filtering for Feature Matching, ICASSP'2019
+- [NM-Net] NM-Net: Mining Reliable Neighbors for Robust Feature Correspondences, arXiv'2019
 
 ###### Graph Matching Methods
 
