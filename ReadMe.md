@@ -6,11 +6,11 @@
 ###### Point Matching/Registration Methods
 
 - [MCT] A mathematical analysis of the motion coherence theory, IJCV'1989
-- [ICP] A Method for Registration of 3-D Shapes, TPAMI'1992
+- [ICP] A Method for Registration of 3-D Shapes, TPAMI'1992 [[python]](https://github.com/ClayFlannigan/icp)
 - [RPM] New algorithms for 2d and 3d point matching: pose estimation and correspondence, PR'1998
-- [SC] Shape matching and object recognition using shape contexts, TPAMI'2002
+- [SC] Shape matching and object recognition using shape contexts, TPAMI'2002 [[wiki]](https://en.wikipedia.org/wiki/Shape_context) [[project]](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sc_digits.html) [[code]](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/code/sc_demo/)
 - [LM-ICP] Robust registration of 2D and 3D point sets, IVC'2003
-- [RPM-TPS] A new point matching algorithm for non-rigid registration, CVIU'2003
+- [TPS-RPM] A new point matching algorithm for non-rigid registration, CVIU'2003 [[project]](https://www.cise.ufl.edu/~anand/students/chui/tps-rpm.html) [[code]](https://www.cise.ufl.edu/~anand/students/chui/rpm/TPS-RPM.zip)
 - [Survey] Image registration methods: a survey, IVC'2003
 - [KCReg] A correlation-based approach to robust point set registration, ECCV'2004 [[code]](http://www.cs.cmu.edu/$ytsin/KCReg/)
 - [3DSC] Recognizing objects in range data using regional point descriptors, ECCV'2004
@@ -23,7 +23,7 @@
 - [PF] Particle filtering for registration of 2D and 3D point sets with stochastic dynamics, CVPR'2008
 - [JS] Simultaneous nonrigid registration of multiple point sets and atlas construction, TPAMI'2008
 - [4PCS] 4-points congruent sets for robust pairwise surface registration, TOG'2008
-- [GICP] Generalized ICP, RSS'2009
+- [GICP] Generalized ICP, RSS'2009 [[code]](https://github.com/avsegal/gicp)
 - [SMM] The mixtures of Student’s t-distributions as a robust framework for rigid registration, IVC'2009
 - [Algebraic-PSR] An Algebraic Approach to Affine Registration of Point Sets, ICCV'2009
 - [SM] Subspace matching: Unique solution to point matching with geometric constraints, ICCV'2009
@@ -32,8 +32,8 @@
 - [ISO] Isometric registration of ambiguous and partial data, CVPR'2009
 - [GF] A new method for the registration of three-dimensional point-sets: The Gaussian fields framework, IVC'2010
 - [RotInv] Rotation invariant non-rigid shape matching in cluttered scenes, ECCV'2010
-- [CDFHC] Group-wise point-set registration using a novel cdf-based havrda-charvát divergence, IJCV'2010
-- [QPCCP] A quadratic programming based cluster correspondence projection algorithm for fast point matching, CVIU'2010
+- [CDFHC] Group-wise point-set registration using a novel cdf-based havrda-charvát divergence, IJCV'2010 [[code]](http://www.cise.ufl.edu/~tichen/cdfHC.zip)
+- [QPCCP] A quadratic programming based cluster correspondence projection algorithm for fast point matching, CVIU'2010 [[code]](http://www.voidcn.com/link?url=http://www4.comp.polyu.edu.hk/~cslzhang/code/QPCCP.zip)
 - [CPD] Point set registration: Coherent point drift, TPAMI'2010 [[code]](https://sites.google.com/site/myronenko/research/cpd)
 - [PFSD] Point set registration via particle filtering and stochastic dynamics, TPAMI'2010
 - [ECMPR] Rigid and articulated point registration with expectation conditional maximization, TPAMI'2011
@@ -43,19 +43,20 @@
 - [EM-ICP] Robust point set registration using EM-ICP with information-theoretically optimal outlier handling, CVPR'2011
 - [RHIM] A robust hybrid method for nonrigid image registration, PR'2011
 - [ISC] Intrinsic shape context descriptors for deformable shapes, CVPR'2012
-- [RPM-Concave] Robust point matching revisited: A concave optimization approach, ECCV'2012
+- [RPM-Concave] Robust point matching revisited: A concave optimization approach, ECCV'2012 [[code]](http://www.voidcn.com/link?url=http://www4.comp.polyu.edu.hk/~cslzhang/code/RPM_concave.rar)
+- [RINPSM] Rotation Invariant Nonrigid Point Set Matching in Cluttered Scenes, TIP'2012 [[code]](http://www4.comp.polyu.edu.hk/~cslzhang/code/dynamProg_minSpanTreeTri_shapCont_TIP.rar)
 - [RPM-L2E] Robust estimation of nonrigid transformation for point set registration, CVPR'2013 [[code]](https://github.com/jiayi-ma?tab=repositories)
 - [GO-ICP] Go-ICP: Solving 3D Registration Efficiently and Globally Optimally, ICCV'2013 TPAMI'2016 [[code]](https://github.com/yangjiaolong/Go-ICP)
 - [Survey] Registration of 3D point clouds and meshes: a survey from rigid to nonrigid, TVCG'2013
 - [NMM] Diffeomorphic Point Set Registration Using Non-Stationary Mixture Models, ISBI'2013
 - [Sparse-ICP] Sparse Iterative Closest Point, ESGP'2013 [[project]](http://jlyang.org/go-icp/) [[code]](https://lgg.epfl.ch/sparseicp)
-- [JRMPC] A Generative Model for the Joint Registration of Multiple Point Sets, ECCV'2014
+- [JRMPC] A Generative Model for the Joint Registration of Multiple Point Sets, ECCV'2014 [[project]](https://team.inria.fr/perception/research/jrmpc/) [[code&data]](https://team.inria.fr/perception/files/2015/05/JRMPC_v0.9.4.zip)
 - [Thesis] Point Matching Based on Non-Parametric Model, Jiayi Ma, 2014
 - [RPM-VFC] Robust Point Matching via Vector Field Consensus, TIP'2014
 - [GLTP] Non-rigid Point Set Registration with Global-Local Topology Preservation, CVPRW'2014
 - [color-GICP] Color supported generalized-ICP, VISAPP'2014
 - [RPM-Concave] Point Matching in the Presence of Outliers in Both Point Sets: A Concave Optimization Approach, CVPR'2014
-- [RPM-VFC] Robust Point Matching via Vector Field Consensus, TIP'2014
+- [RPM-VFC] Robust Point Matching via Vector Field Consensus, TIP'2014 [[code]](https://github.com/jiayi-ma?tab=repositories)
 - [super4PCS] Super 4pcs fast global pointcloud registration via smart indexing, CGF'2014 [[code]](https://github.com/nmellado/Super4PCS) [[OpenGR]](https://github.com/STORM-IRIT/OpenGR)
 - [SDTM] A Riemannian framework for matching point clouds represented by the Schrodinger distance transform, CVPR'2014
 - [GLMD-TPS] A robust global and local mixture distance based non-rigid point set registration, PR'2015
@@ -64,13 +65,13 @@
 - [MLMD] MLMD: Maximum likelihood mixture decoupling for fast and accurate point cloud registration, 3DV'2015
 - [APSR] Non-rigid Articulated Point Set Registration for Human Pose Estimation, WACV'2015
 - [RegGF] Non-rigid visible and infrared face registration via regularized Gaussian fields criterion, PR'2015 [[code]](https://github.com/jiayi-ma?tab=repositories)
-- [LLT] Robust feature matching for remote sensing image registration via locally linear transforming, TGRS'2015
-- [RPM-L2E] Robust L2E estimation of transformation for non-rigid registration, TSP'2015
+- [LLT] Robust feature matching for remote sensing image registration via locally linear transforming, TGRS'2015 [[code]](https://github.com/jiayi-ma?tab=repositories)
+- [RPM-L2E] Robust L2E estimation of transformation for non-rigid registration, TSP'2015 [[code]](https://github.com/jiayi-ma?tab=repositories)
 - [GLR] Robust Nonrigid Point Set Registration Using Graph-Laplacian Regularization, WACV'2015
 - [FPPSR] Aligning the dissimilar: A probabilistic method for feature-based point set registration, ICPR'2016
 - [color-PSR] A probabilistic framework for color-based point set registration, CVPR'2016
 - [Gogma] Gogma: Globally-optimal gaussian mixture alignment, CVPR'2016
-- [GO-APM] An Efficient Globally Optimal Algorithm for Asymmetric Point Matching, TPAMI'2016
+- [GO-APM] An Efficient Globally Optimal Algorithm for Asymmetric Point Matching, TPAMI'2016 [[project]](http://www4.comp.polyu.edu.hk/~cslzhang/APM.htm) [[code]](http://www4.comp.polyu.edu.hk/~cslzhang/APM_files/data/RPM_COV_source_code.rar)
 - [PR-GLS] Non-Rigid Point Set Registration by Preserving Global and Local Structures, TIP'2016 [[code]](https://github.com/jiayi-ma?tab=repositories)
 - [conreg] Non-iterative rigid 2D/3D point-set registration using semidefinite programming, TIP'2016
 - [PM] Probabilistic Model for Robust Affine and Non-rigid Point Set Matching, TPAMI'2016
@@ -78,7 +79,7 @@
 - [FRSSP] Fast Rotation Search with Stereographic Projections for 3D Registration, TPAMI'2016
 - [VBPSM] Probabilistic Model for Robust Affine and Non-rigid Point Set Matching, TPAMI'2016 [[code]](https://www.computer.org/csdl/trans/tp/2016/12/07416224-abs.html)
 - [MFF] Image Correspondences Matching Using Multiple Features Fusion, ECCV'2016 [[code]](http://press.liacs.nl/researchdownloads)
-- [FGR] Fast Global Registration, ECCV'2016
+- [FGR] Fast Global Registration, ECCV'2016 [[code]](https://github.com/intel-isl/FastGlobalRegistration)
 - [SSFR] Global Registration of 3D LiDAR Point Clouds Basedon Scene Features: Application toStructured Environments, RS'2017
 - [color-PCR] Colored point cloud registration revisited, ICCV'2017
 - [dpOptTrans] Efficient Globally Optimal Point Cloud Alignment using Bayesian
@@ -99,7 +100,7 @@ Nonparametric Mixtures, CVPR'2017 [[code]](https://github.com/jstraub/dpOptTrans
 - [DeepMapping] DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds, arxiv'2018 [[project]](https://ai4ce.github.io/DeepMapping/)
 - [APSR] Adversarial point set registration, arxiv'2018 [[pdf]](https://arxiv.org/abs/1811.08139)
 - [3DIV] Fast and Globally Optimal Rigid Registration of 3D Point Sets by Transformation Decomposition, arxiv'2018
-- [--] Analysis of Robust Functions for Registration Algorithms, arxiv'2018
+- [Analysis] Analysis of Robust Functions for Registration Algorithms, arxiv'2018
 - [MVCNN] Learning Local Shape Descriptors from Part Correspondences with Multiview Convolutional Networks, TOG'2018 [[project]](https://people.cs.umass.edu/~hbhuang/local_mvcnn/)
 - [CSCIF] Cubature Split Covariance Intersection Filter-Based Point Set Registration, TIP'2018
 - [FPR] Efficient Registration of High-Resolution Feature Enhanced Point Clouds, TPAMI'2018
