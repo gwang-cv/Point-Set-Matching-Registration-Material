@@ -173,7 +173,7 @@ Nonparametric Mixtures, CVPR'2017 [[code]](https://github.com/jstraub/dpOptTrans
 - [LAI] Object matching using a locally affine invariant and linear programming techniques, TPAMI'2013
 - [GeoDesc] GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints, ECCV'2018 [[code]](https://github.com/lzx551402/geodesc)
 
-###### deep features
+###### Deep Features
 - [TFeat] Learning local feature descriptors with triplets and shallow convolutional neural networks, BMVC'2016 [[code]](https://github.com/vbalnt/tfeat)
 - [L2-Net] L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space, CVPR'2017 [[code]](https://github.com/yuruntian/L2-Net)
 - [HardNet] Working hard to know your neighbor's margins: Local descriptor learning loss, CVPR'2018 [[code]](https://github.com/DagnyT/hardnet/tree/master)
@@ -202,10 +202,10 @@ Nonparametric Mixtures, CVPR'2017 [[code]](https://github.com/jstraub/dpOptTrans
 - [LNR] Locally non-rigid registration for mobile HDR photography, CVPRW'2015
 
 ###### Misc
+- Hand Motion from 3D Point Trajectories and a Smooth Surface Model, ECCV'2004 [[project]](http://www.inrialpes.fr/movi)
 - Aligning Images in the Wild, CVPR'2012 [[pdf]](https://www.comp.nus.edu.sg/~lowkl/publications/aligning_images_cvpr2012.pdf) [[code]](https://sites.google.com/site/laoszefei81/home/code-1/code-for-aligning-images-in-the-wild)
 - Robust feature set matching for partial face recognition, CVPR'2013
 - Infrared and visible image fusion via gradient transfer and total variation minimization, Information Fusion'2016 [[code]](https://github.com/jiayi-ma?tab=repositories)
-- Hand Motion from 3D Point Trajectories and a Smooth Surface Model, ECCV'2004 [[project]](http://www.inrialpes.fr/movi)
 
 #### Databases
 
