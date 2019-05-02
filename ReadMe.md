@@ -263,3 +263,6 @@ Nonparametric Mixtures, CVPR'2017 [[pdf]](https://www.researchgate.net/profile/J
 - [COLMAP](https://colmap.github.io/)
 - [OpenMVG: open Multiple View Geometry](https://github.com/openMVG/openMVG)
 - [VisualSFM : A Visual Structure from Motion System](http://ccwu.me/vsfm/)
+- [Medical Image Registration Toolbox](https://sites.google.com/site/myronenko/research/mirt)
+- [Graph Matching Toolbox in MATLAB](http://www.timotheecour.com/software/graph_matching/graph_matching.html) 
+- [FAIR: Flexible Algorithms for Image Registration](https://github.com/C4IR/FAIR.m) [[pdf]](http://www.siam.org/books/fa06/Modersitzki_FAIR_2009_FA06.pdf)
