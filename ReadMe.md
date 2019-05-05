@@ -28,6 +28,7 @@
 - [JS] Simultaneous nonrigid registration of multiple point sets and atlas construction, TPAMI'2008 [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2921641/)
 - [4PCS] 4-points congruent sets for robust pairwise surface registration, TOG'2008 [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.140.4881&rep=rep1&type=pdf) [[project]](http://graphics.stanford.edu/~niloy/research/fpcs/fpcs_sig_08.html)
 - [GICP] Generalized ICP, RSS'2009 [[pdf]](http://www.robots.ox.ac.uk/~avsegal/resources/papers/Generalized_ICP.pdf) [[code]](https://github.com/avsegal/gicp)
+- [MP] 2D-3D registration of deformable shapes with manifold projection, ICIP'2009 [[pdf]](https://www.researchgate.net/profile/Alessio_Del_Bue/publication/223134711_2D-3D_Registration_Of_Deformable_Shapes_With_Manifold_Projection/links/0912f50d0a439af072000000.pdf)
 - [SMM] The mixtures of Student’s t-distributions as a robust framework for rigid registration, IVC'2009 [[pdf]](http://www.academia.edu/download/45493807/imavis09.pdf)
 - [Algebraic-PSR] An Algebraic Approach to Affine Registration of Point Sets, ICCV'2009 [[pdf]](https://www.researchgate.net/profile/Anand_Rangarajan/publication/221111832_An_Algebraic_Approach_to_Affine_Registration_of_Point_Sets/links/0c960520d3ec57741c000000.pdf)
 - [SM] Subspace matching: Unique solution to point matching with geometric constraints, ICCV'2009 [[pdf]](http://www.isr.ist.utl.pt/~manuel/pubs/iccv09.pdf)
