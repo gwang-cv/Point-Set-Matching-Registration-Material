@@ -6,7 +6,7 @@
 ###### Point Matching/Registration Methods
 
 - [MCT] A mathematical analysis of the motion coherence theory, IJCV'1989 [[pdf]](http://www.cs.jhu.edu/~ayuille/PubsJournal/J16YuilleGrzywacz89.pdf)
-- [ICP: point-to-point] Method for Registration of 3-D Shapes, Robotics-DL tentative'1992 [[pdf]](http://www.cs.virginia.edu/~mjh7v/bib/Besl92.pdf) [[code]](http://www.open3d.org/docs/tutorial/Basic/icp_registration.html) [[code]](https://ww2.mathworks.cn/matlabcentral/fileexchange/27804-iterative-closest-point) [[material]](http://ais.informatik.uni-freiburg.de/teaching/ss12/robotics/slides/17-icp.pdf) [[tutorial]](http://www.sci.utah.edu/~shireen/pdfs/tutorials/Elhabian_ICP09.pdf)
+- [ICP: point-to-point] Method for Registration of 3-D Shapes, Robotics-DL tentative'1992 [[pdf]](http://www.cs.virginia.edu/~mjh7v/bib/Besl92.pdf) [[code]](http://staffhome.ecm.uwa.edu.au/~00053650/code/icp.m)[[code]](http://www.open3d.org/docs/tutorial/Basic/icp_registration.html) [[code]](https://ww2.mathworks.cn/matlabcentral/fileexchange/27804-iterative-closest-point) [[material]](http://ais.informatik.uni-freiburg.de/teaching/ss12/robotics/slides/17-icp.pdf) [[tutorial]](http://www.sci.utah.edu/~shireen/pdfs/tutorials/Elhabian_ICP09.pdf)
 - [ICP: point-to-plane] Object modeling by registration of multiple range images, IVC'1992 [[pdf]](http://graphics.stanford.edu/courses/cs348a-17-winter/Handouts/chen-medioni-align-rob91.pdf)
 - [ICP] Iterative point matching for registration of free-form curves and surfaces, IJCV'1994 [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.175.770&rep=rep1&type=pdf)
 - [RPM/Softassign] New algorithms for 2d and 3d point matching: pose estimation and correspondence, PR'1998 [[pdf]](http://cmp.felk.cvut.cz/~amavemig/softassign.pdf) [[code]](https://www.cise.ufl.edu/~anand/students/chui/rpm/TPS-RPM.zip)
@@ -43,9 +43,11 @@
 - [CPD] Point set registration: Coherent point drift, NIPS'2007 [[pdf]](http://papers.nips.cc/paper/2962-non-rigid-point-set-registration-coherent-point-drift.pdf) TPAMI'2010 [[pdf]](https://arxiv.org/pdf/0905.2635) [[code]](https://sites.google.com/site/myronenko/research/cpd)
 - [PFSD] Point set registration via particle filtering and stochastic dynamics, TPAMI'2010 [[pdf]](http://iss.bu.edu/tannenba/publications/papers/sandhu-pami09-pointset.pdf)
 - [ECMPR] Rigid and articulated point registration with expectation conditional maximization, TPAMI'2011 [[pdf]](https://hal.inria.fr/docs/00/43/57/72/PDF/RR-7114.pdf) [[project]](https://team.inria.fr/perception/research/ecmpr/) [[code]](https://team.inria.fr/perception/files/2015/04/ecmpr_demo.zip)
-- [GMMReg/TPS-L2] Robust point set registration using gaussian mixture models, TPAMI'2011 [[pdf]](https://ieeexplore.ieee.org/abstract/document/5674050/) [[code]](https://github.com/bing-jian/gmmreg)
+- [GMMReg/TPS-L2] Robust point set registration using gaussian mixture models, NIPS'2005 TPAMI'2011 [[pdf]](https://ieeexplore.ieee.org/abstract/document/5674050/) [[code]](https://github.com/bing-jian/gmmreg)
 - [TPRL] Topology preserving relaxation labeling for nonrigid point matching, TPAMI'2011 [[pdf]](https://ieeexplore.ieee.org/abstract/document/5590251/)
 - [OOH] Robust point set registration using EM-ICP with information-theoretically optimal outlier handling, CVPR'2011 [[pdf]](https://ieeexplore.ieee.org/abstract/document/5995744)
+- [SGO] Stochastic global optimization for robust point set registration, CVIU'2011
+- [survey] 3D Shape Registration, 3DIAA'2012
 - [Multiview LM-ICP] Accurate and automatic alignment of range surfaces, 3DIMPVT'2012 [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.403.2173&rep=rep1&type=pdf) [[code]](https://github.com/adrelino/mv-lm-icp)
 - [ISC] Intrinsic shape context descriptors for deformable shapes, CVPR'2012 [[pdf]](http://www0.cs.ucl.ac.uk/staff/I.Kokkinos/pubs/KokkinosBronstein_ISC_CVPR12.pdf)
 - [RPM-Concave] Robust point matching revisited: A concave optimization approach, ECCV'2012 [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.297.8822&rep=rep1&type=pdf) [[code]](http://www.voidcn.com/link?url=http://www4.comp.polyu.edu.hk/~cslzhang/code/RPM_concave.rar)
@@ -204,6 +206,8 @@ Nonparametric Mixtures, CVPR'2017 [[pdf]](https://www.researchgate.net/profile/J
 - A robust hybrid method for nonrigid image registration, PR'2011 [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320310004930)
 - Aligning Images in the Wild, CVPR'2012 [[pdf]](https://www.comp.nus.edu.sg/~lowkl/publications/aligning_images_cvpr2012.pdf) [[code]](https://sites.google.com/site/laoszefei81/home/code-1/code-for-aligning-images-in-the-wild)
 - Robust feature set matching for partial face recognition, CVPR'2013 [[pdf]](http://openaccess.thecvf.com/content_iccv_2013/papers/Weng_Robust_Feature_Set_2013_ICCV_paper.pdf)
+- Multi-modal and Multi-spectral Registrationfor Natural Images, ECCV'2014 [[pdf]](http://www.cse.cuhk.edu.hk/~leojia/projects/multimodal/papers/multispectral_registration.pdf) [[project]](http://www.cse.cuhk.edu.hk/~leojia/projects/multimodal/)
+- Articulated and Generalized Gaussian KernelCorrelation for Human Pose Estimation, TIP'2016 [[pdf]](https://www.researchgate.net/publication/286510775_Articulated_and_Generalized_Gaussian_Kernel_Correlation_for_Human_Pose_Estimation?enrichId=rgreq-1fc1a14d1ced5b1cefa92e498e22f862-XXX&enrichSource=Y292ZXJQYWdlOzI4NjUxMDc3NTtBUzozMzg0NjEwNTc1MzE5MDRAMTQ1NzcwNjgxMjgwMQ%3D%3D&el=1_x_3&_esc=publicationCoverPdf)
 - Infrared and visible image fusion via gradient transfer and total variation minimization, Information Fusion'2016 [[pdf]](https://www.researchgate.net/profile/Chang_Li37/publication/292680729_Infrared_and_visible_image_fusion_via_gradient_transfer_and_total_variation_minimization/links/5a10e6cca6fdccc2d7999da3/Infrared-and-visible-image-fusion-via-gradient-transfer-and-total-variation-minimization.pdf) [[code]](https://github.com/jiayi-ma?tab=repositories)
 
 #### Databases
@@ -240,6 +244,8 @@ Nonparametric Mixtures, CVPR'2017 [[pdf]](https://www.researchgate.net/profile/J
 - [Two-view Geometry](http://cmp.felk.cvut.cz/data/geometry2view/index.xhtml)
 - [Point clouds data sets for 3D registration](https://projet.liris.cnrs.fr/pcr/)
 - [IMW CVPR 2019: Challenge](https://image-matching-workshop.github.io/challenge/)
+- [Robotic 3D Scan Repository](http://kos.informatik.uni-osnabrueck.de/3Dscans/)
+- [Database for 3D surface registration](http://staffhome.ecm.uwa.edu.au/~00053650/3Dmodeling.html)
 
 ###### Other databases
 
@@ -268,3 +274,4 @@ Nonparametric Mixtures, CVPR'2017 [[pdf]](https://www.researchgate.net/profile/J
 - [Medical Image Registration Toolbox](https://sites.google.com/site/myronenko/research/mirt)
 - [Graph Matching Toolbox in MATLAB](http://www.timotheecour.com/software/graph_matching/graph_matching.html) 
 - [FAIR: Flexible Algorithms for Image Registration](https://github.com/C4IR/FAIR.m) [[pdf]](http://www.siam.org/books/fa06/Modersitzki_FAIR_2009_FA06.pdf)
+- [Range Image Registration Toolbox](http://eia.udg.es/~cmatabos/research.htm)
