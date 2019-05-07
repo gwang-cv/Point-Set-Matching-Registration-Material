@@ -124,6 +124,7 @@
 - [LSR-CFP] Least-squares registration of point sets over SE (d) using closed-form projections, CVIU'2019 [[pdf]](https://arxiv.org/pdf/1904.04218)
 - [FilterReg] FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization, CVPR'2019 [[pdf]](https://arxiv.org/pdf/1811.10136) [[project]](https://sites.google.com/view/filterreg/home) [[code]](https://bitbucket.org/gaowei19951004/poser/src/master/)
 - [TEASER] A Polynomial-time Solution for Robust Registration with Extreme Outlier Rates, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1903.08588)
+- [] Efficient Registration of High-ResolutionFeature Enhanced Point Clouds, TPAMI'2019 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8352814/)
 
 ###### Mismatch Removal Methods
 
@@ -148,6 +149,7 @@
 - [GOPAC] Globally-Optimal Inlier Set Maximisation for Simultaneous Camera Pose and Feature Correspondence, ICCV'2017 [[pdf]](https://drive.google.com/open?id=0BwzhzqTiWNEWTzE3ZW1lNnhBTUE) TPAMI'2018 [[pdf]](https://drive.google.com/open?id=1FV_SFoxVvsspK3uh9lRYsJPUSX0kuI_L) [[code]](https://drive.google.com/open?id=1H7gOQz7CAXSat56OPTgV2lOLUSI4D_vG)
 - [LFGC] Learning to Find Good Correspondences, CVPR'2018 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1453.pdf) [[code]](https://github.com/vcg-uvic/learned-correspondence-release)
 - [GC-RANSAC] Graph-Cut RANSAC, CVPR'2018 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Barath_Graph-Cut_RANSAC_CVPR_2018_paper.pdf) [[code]](https://github.com/danini/graph-cut-ransac)
+- [KCNet] Mining Point Cloud Local Structures by Kernel Correlation and Graph Pooling, CVPR'2018 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Mining_Point_Cloud_CVPR_2018_paper.pdf) [[code]](http://www.merl.com/research/license#KCNet)
 - [SRC] Consensus Maximization for Semantic Region Correspondences, CVPR'2018 [[pdf]](https://www.cvg.ethz.ch/research/secon/paper/PSpeciale2018CVPR.pdf) [[code]](https://www.cvg.ethz.ch/research/secon/paper/PSpeciale2018CVPR_code_sample.zip)
 - [CODE] Code: Coherence based decision boundaries for feature correspondence, TPAMI'2018 [[pdf]](https://ora.ox.ac.uk/objects/uuid:0e5a62ab-fb69-472f-a1e1-49d49595db62/download_file?safe_filename=matching.pdf&file_format=application%2Fpdf&type_of_work=Journal+article) [[project]](http://www.kind-of-works.com/CODE_matching.html)
 - [LPM] Locality preserving matching, IJCV'2019 [[pdf]](https://link.springer.com/article/10.1007/s11263-018-1117-z) [[code]](https://github.com/jiayi-ma?tab=repositories)
@@ -251,6 +253,7 @@
 - [IMW CVPR 2019: Challenge](https://image-matching-workshop.github.io/challenge/)
 - [Robotic 3D Scan Repository](http://kos.informatik.uni-osnabrueck.de/3Dscans/)
 - [Database for 3D surface registration](http://staffhome.ecm.uwa.edu.au/~00053650/3Dmodeling.html)
+- [Large Geometric Models Archive](https://www.cc.gatech.edu/projects/large_models/)
 
 ###### Other databases
 
