@@ -16,7 +16,7 @@
 - [LM-ICP] Robust registration of 2D and 3D point sets, IVC'2003 [[pdf]](http://luthuli.cs.uiuc.edu/~daf/courses/Opt-2019/Papers/sdarticle.pdf) [[code]](http://research.microsoft.com/~awf/lmicp/)
 - [TPS-RPM] A new point matching algorithm for non-rigid registration, CVPR'2000 [[pdf]](https://ieeexplore.ieee.org/abstract/document/854733/) CVIU'2003 [[pdf]](http://www.cvl.iis.u-tokyo.ac.jp/class2013/2013w/paper/correspondingAndRegistration/05_RPM-TPS.pdf) [[project]](https://www.cise.ufl.edu/~anand/students/chui/tps-rpm.html) [[code]](https://www.cise.ufl.edu/~anand/students/chui/rpm/TPS-RPM.zip)
 - [Survey] Image registration methods: a survey, IVC'2003 [[pdf]](https://www.researchgate.net/profile/Jan_Flusser/publication/222648347_Image_Registration_Methods_A_Survey/links/5ba9f31c92851ca9ed238b48/Image-Registration-Methods-A-Survey.pdf)
-- [KCReg] A correlation-based approach to robust point set registration, ECCV'2004 [[pdf]](http://www.cs.cmu.edu/afs/.cs.cmu.edu/Web/People/ytsin/research/kcreg.pdf) [[code]](http://www.cs.cmu.edu/~ytsin/KCReg/)
+- [KCReg] A correlation-based approach to robust point set registration, ECCV'2004 [[pdf]](http://www.cs.cmu.edu/afs/.cs.cmu.edu/Web/People/ytsin/research/kcreg.pdf) [[chp]](http://www.cs.cmu.edu/~ytsin/thesis/chap2.pdf) [[code]](http://www.cs.cmu.edu/~ytsin/KCReg/)
 - [3DSC] Recognizing objects in range data using regional point descriptors, ECCV'2004 [[pdf]](http://www.cs.jhu.edu/~misha/Papers/Frome04.pdf) [[code_pcl]](https://github.com/PointCloudLibrary/pcl/blob/master/examples/features/example_shape_contexts.cpp)
 - [RGR] Robust Global Registration, ESGP'2005 [[pdf]](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/global_registration/paper_docs/global_registration_sgp_05.pdf)
 - [RPM-LNS] Robust point matching for nonrigid shapes by preserving local neighborhood structures, TPAMI'2006 [[pdf]](https://www.researchgate.net/profile/Yefeng_Zheng/publication/7211798_Robust_point_matching_for_nonrigid_shapes_by_preserving_local_neighborhood_structures/links/0deec527101e1d3269000000/Robust-point-matching-for-nonrigid-shapes-by-preserving-local-neighborhood-structures.pdf) [[code]](http://www.umiacs.umd.edu/user.php?path=zhengyf/PointMatching.htm)
@@ -186,6 +186,7 @@
 - [L2-Net] L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space, CVPR'2017 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tian_L2-Net_Deep_Learning_CVPR_2017_paper.pdf) [[code]](https://github.com/yuruntian/L2-Net)
 - [HardNet] Working hard to know your neighbor's margins: Local descriptor learning loss, CVPR'2018 [[pdf]](http://papers.nips.cc/paper/7068-working-hard-to-know-your-neighbors-margins-local-descriptor-learning-loss.pdf) [[code]](https://github.com/DagnyT/hardnet/tree/master)
 - [AffNet] Repeatability Is Not Enough: Learning Discriminative Affine Regions via Discriminability, ECCV'2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dmytro_Mishkin_Repeatability_Is_Not_ECCV_2018_paper.pdf) [[code]](https://github.com/ducha-aiki/affnet)
+- [GCNv2] GCNv2: Efficient Correspondence Prediction for Real-Time SLAM, ICLR'2019 [[pdf]](https://arxiv.org/pdf/1902.11046.pdf) [[code]](https://github.com/jiexiong2016/GCNv2_SLAM)
 
 
 #### Applications
