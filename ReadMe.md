@@ -255,6 +255,7 @@
 - [Robotic 3D Scan Repository](http://kos.informatik.uni-osnabrueck.de/3Dscans/)
 - [Database for 3D surface registration](http://staffhome.ecm.uwa.edu.au/~00053650/3Dmodeling.html)
 - [Large Geometric Models Archive](https://www.cc.gatech.edu/projects/large_models/)
+- [Laser scanner point clouds](http://www.prs.igp.ethz.ch/research/completed_projects/automatic_registration_of_point_clouds.html)
 
 ###### Other databases
 
