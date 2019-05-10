@@ -124,7 +124,7 @@
 - [LSR-CFP] Least-squares registration of point sets over SE (d) using closed-form projections, CVIU'2019 [[pdf]](https://arxiv.org/pdf/1904.04218)
 - [FilterReg] FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization, CVPR'2019 [[pdf]](https://arxiv.org/pdf/1811.10136) [[project]](https://sites.google.com/view/filterreg/home) [[code]](https://bitbucket.org/gaowei19951004/poser/src/master/)
 - [TEASER] A Polynomial-time Solution for Robust Registration with Extreme Outlier Rates, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1903.08588)
-- [] Efficient Registration of High-ResolutionFeature Enhanced Point Clouds, TPAMI'2019 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8352814/)
+- [FPR] Efficient Registration of High-Resolution Feature Enhanced Point Clouds, TPAMI'2019 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8352814/)
 
 ###### Mismatch Removal Methods
 
