@@ -4,7 +4,7 @@ A list of point set matching/ point set registration resources.
 
 ### Table of Contents
 
------------------
+---
 
 - [Point Matching Registration Methods](#pm1)
     - [Point Matching/Registration Methods](#pm)
@@ -26,7 +26,7 @@ A list of point set matching/ point set registration resources.
 <a name="pm1"></a>
 ### Point Set Matching/Registration Methods [[wiki]](https://en.wikipedia.org/wiki/Point_set_registration)
 
------------------
+---
 
 <a name="pm"></a>
 #### Point Matching/Registration Methods
@@ -224,7 +224,7 @@ A list of point set matching/ point set registration resources.
 <a name="app"></a>
 ### Applications
 
------------------
+---
 
 <a name="rsir"></a>
 #### Remote Sensing Image Registration
@@ -262,7 +262,7 @@ A list of point set matching/ point set registration resources.
 <a name="db"></a>
 ### Databases
 
------------------
+---
 
 #### General databases
 
@@ -318,7 +318,7 @@ A list of point set matching/ point set registration resources.
 <a name="tools"></a>
 ### Tools
 
------------------
+---
 
 - [VLFeat](http://www.vlfeat.org/)
 - [PCL: Point Cloud Library](https://github.com/PointCloudLibrary/pcl)
