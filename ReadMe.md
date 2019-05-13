@@ -2,9 +2,7 @@
 
 A list of point set matching/ point set registration resources. 
 
-### Table of Contents
-
----
+## Table of Contents
 
 - [Point Matching Registration Methods](#pm1)
     - [Point Matching/Registration Methods](#pm)
@@ -24,12 +22,11 @@ A list of point set matching/ point set registration resources.
 
 
 <a name="pm1"></a>
-### Point Set Matching/Registration Methods [[wiki]](https://en.wikipedia.org/wiki/Point_set_registration)
+## Point Set Matching/Registration Methods [[wiki]](https://en.wikipedia.org/wiki/Point_set_registration)
 
----
 
 <a name="pm"></a>
-#### Point Matching/Registration Methods
+### Point Matching/Registration Methods
 
 - [MCT] A mathematical analysis of the motion coherence theory, IJCV'1989 [[pdf]](http://www.cs.jhu.edu/~ayuille/PubsJournal/J16YuilleGrzywacz89.pdf)
 - [ICP: point-to-point] Method for Registration of 3-D Shapes, Robotics-DL tentative'1992 [[pdf]](http://www.cs.virginia.edu/~mjh7v/bib/Besl92.pdf) [[code]](http://staffhome.ecm.uwa.edu.au/~00053650/code/icp.m)[[code]](http://www.open3d.org/docs/tutorial/Basic/icp_registration.html) [[code]](https://ww2.mathworks.cn/matlabcentral/fileexchange/27804-iterative-closest-point) [[material]](http://ais.informatik.uni-freiburg.de/teaching/ss12/robotics/slides/17-icp.pdf) [[tutorial]](http://www.sci.utah.edu/~shireen/pdfs/tutorials/Elhabian_ICP09.pdf)
@@ -155,7 +152,7 @@ A list of point set matching/ point set registration resources.
 - [DCP] Deep Closest Point: Learning Representations for Point Cloud Registration, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1905.03304.pdf) [[code]](https://github.com/WangYueFt/dcp)
 
 <a name="mrm"></a>
-#### Mismatch Removal Methods
+### Mismatch Removal Methods
 
 - [RANSAC] Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography, 1981 [[pdf]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a460585.pdf) [[wiki]](https://en.wikipedia.org/wiki/Random_sample_consensus)
 - [MLESAC] MLESAC: A new robust estimator with application to estimating image geometry, CVIU'2000 [[pdf]](http://www.academia.edu/download/3436793/torr_mlesac.pdf) [[code_pcl]](https://github.com/PointCloudLibrary/pcl/tree/master/sample_consensus/include/pcl/sample_consensus)
@@ -187,7 +184,7 @@ A list of point set matching/ point set registration resources.
 - [NM-Net] NM-Net: Mining Reliable Neighbors for Robust Feature Correspondences, arXiv'2019 [[pdf]](https://arxiv.org/pdf/1904.00320)
 
 <a name="gmm"></a>
-#### Graph Matching Methods
+### Graph Matching Methods
 
 - [SM] A spectral technique for correspondence problems using pairwise constraints, ICCV'2005 [[pdf]](https://kilthub.figshare.com/articles/A_Spectral_Technique_for_Correspondence_Problems_Using_Pairwise_Constraints/6551327/files/12031808.pdf) [[code]](https://sites.google.com/site/graphmatchingmethods/Code_including_Spectral_Matching.zip?attredirects=0)
 - [SM-MAP] Efficient MAP approximation for dense energy functions, ICML'2006 [[pdf]](https://kilthub.figshare.com/articles/Efficient_MAP_Approximation_For_Dense_Energy_Functions/6554678/files/12036863.pdf) [[code]](https://sites.google.com/site/graphmatchingmethods/Code_including_IPFP_and_L2QP_for_MAP_Inference.zip?attredirects=0)
@@ -201,7 +198,7 @@ A list of point set matching/ point set registration resources.
 - [MS] Progressive mode-seeking on graphs for sparse feature matching, ECCV'2014 [[pdf]](http://ro.uow.edu.au/cgi/viewcontent.cgi?article=5118&context=eispapers) [[code]](https://download.csdn.net/download/family0823/9366365?fps=1&locationNum=1)
 
 <a name="misc1"></a>
-#### Misc
+### Misc
 
 - [RootSIFT] Three things everyone should know to improve object retrieval, CVPR'2012 [[pdf]](http://www.cs.sfu.ca/CourseCentral/820/li/material/source/papers/3things-retrieval-2012.pdf) [[related code]](https://www.pyimagesearch.com/2015/04/13/implementing-rootsift-in-python-and-opencv/#)
 - [DM-CNN] Descriptor Matching with Convolutional Neural Networks: a Comparison to SIFT, arXiv'2014 [[pdf]](https://www.researchgate.net/profile/Alexey_Dosovitskiy/publication/262568634_Descriptor_Matching_with_Convolutional_Neural_Networks_a_Comparison_to_SIFT/links/541fe8dc0cf2218008d41617.pdf)
@@ -213,7 +210,7 @@ A list of point set matching/ point set registration resources.
 - [GeoDesc] GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints, ECCV'2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zixin_Luo_Learning_Local_Descriptors_ECCV_2018_paper.pdf) [[code]](https://github.com/lzx551402/geodesc)
 
 <a name="df"></a>
-#### Deep Features
+### Deep Features
 - [TFeat] Learning local feature descriptors with triplets and shallow convolutional neural networks, BMVC'2016 [[pdf]](https://www.researchgate.net/profile/Krystian_Mikolajczyk/publication/317192886_Learning_local_feature_descriptors_with_triplets_and_shallow_convolutional_neural_networks/links/5a038dad0f7e9beb1770c3c2/Learning-local-feature-descriptors-with-triplets-and-shallow-convolutional-neural-networks.pdf) [[code]](https://github.com/vbalnt/tfeat)
 - [L2-Net] L2-Net: Deep Learning of Discriminative Patch Descriptor in Euclidean Space, CVPR'2017 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Tian_L2-Net_Deep_Learning_CVPR_2017_paper.pdf) [[code]](https://github.com/yuruntian/L2-Net)
 - [HardNet] Working hard to know your neighbor's margins: Local descriptor learning loss, CVPR'2018 [[pdf]](http://papers.nips.cc/paper/7068-working-hard-to-know-your-neighbors-margins-local-descriptor-learning-loss.pdf) [[code]](https://github.com/DagnyT/hardnet/tree/master)
@@ -222,35 +219,33 @@ A list of point set matching/ point set registration resources.
 
 
 <a name="app"></a>
-### Applications
-
----
+## Applications
 
 <a name="rsir"></a>
-#### Remote Sensing Image Registration
+### Remote Sensing Image Registration
 - [GLPM] Guided Locality Preserving Feature Matching for Remote Sensing Image Registration, TGRS'2018 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8340808/)
 
 <a name="rir"></a>
-#### Retinal Image Registration
+### Retinal Image Registration
 - [DB-ICP] The dual-bootstrap iterative closest point algorithm with application to retinal image registration, TMI'2003 [[pdf]](http://www.cs.rpi.edu/~stewart/papers/dual_bootstrap_icp.pdf)
 - [GDB-ICP] Registration of Challenging Image Pairs: Initialization, Estimation, and Decision, TPAMI'2007 [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.226.2782&rep=rep1&type=pdf) [[project]](http://www.vision.cs.rpi.edu/gdbicp/)     
 - [ED-DB-ICP] The edge-driven dual-bootstrap iterative closest point algorithm for registration of multimodal fluorescein angiogram sequence, TMI'2010 [[pdf]](https://ieeexplore.ieee.org/abstract/document/5223602/)
 
 <a name="pir"></a>
-#### Palmprint Image Registration
+### Palmprint Image Registration
 - Robust and efficient ridge-based palmprint matching, TPAMI'2012 [[pdf]](https://ieeexplore.ieee.org/abstract/document/6112761/)
 - Palmprint image registration using convolutional neural networks and Hough transform, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1904.00579)
 
 <a name="vhn"></a>
-#### Visual Homing Navigation
+### Visual Homing Navigation
 - Visual Homing via Guided Locality Preserving Matching, ICRA'2018 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8460935/)
 
 <a name="hi"></a>
-#### HDR Imaging
+### HDR Imaging
 - Locally non-rigid registration for mobile HDR photography, CVPRW'2015 [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2015/W12/papers/Gallo_Locally_Non-Rigid_Registration_2015_CVPR_paper.pdf)
 
 <a name="misc2"></a>
-#### Misc
+### Misc
 - Hand Motion from 3D Point Trajectories and a Smooth Surface Model, ECCV'2004 [[pdf]](https://hal.inria.fr/inria-00262293/document) [[project]](http://www.inrialpes.fr/movi)
 - A robust hybrid method for nonrigid image registration, PR'2011 [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320310004930)
 - Aligning Images in the Wild, CVPR'2012 [[pdf]](https://www.comp.nus.edu.sg/~lowkl/publications/aligning_images_cvpr2012.pdf) [[code]](https://sites.google.com/site/laoszefei81/home/code-1/code-for-aligning-images-in-the-wild)
@@ -260,11 +255,9 @@ A list of point set matching/ point set registration resources.
 - Infrared and visible image fusion via gradient transfer and total variation minimization, Information Fusion'2016 [[pdf]](https://www.researchgate.net/profile/Chang_Li37/publication/292680729_Infrared_and_visible_image_fusion_via_gradient_transfer_and_total_variation_minimization/links/5a10e6cca6fdccc2d7999da3/Infrared-and-visible-image-fusion-via-gradient-transfer-and-total-variation-minimization.pdf) [[code]](https://github.com/jiayi-ma?tab=repositories)
 
 <a name="db"></a>
-### Databases
+## Databases
 
----
-
-#### General databases
+### General databases
 
 - [2D Synthesized Chui-Rangarajan Dataset (deformation, noise, and outliers)](https://www.cise.ufl.edu/~anand/students/chui/research.html)
 - [TOSCA](http://tosca.cs.technion.ac.il/book/resources_data.html)
@@ -301,7 +294,7 @@ A list of point set matching/ point set registration resources.
 - [Large Geometric Models Archive](https://www.cc.gatech.edu/projects/large_models/)
 - [Laser scanner point clouds](http://www.prs.igp.ethz.ch/research/completed_projects/automatic_registration_of_point_clouds.html)
 
-#### Other databases
+### Other databases
 
 - [FIRE: Fundus Image Registration Dataset](https://www.ics.forth.gr/cvrl/fire/)
 - [DRIVE (Retinal Images)](http://www.isi.uu.nl/Research/Databases/DRIVE/)
@@ -316,9 +309,7 @@ A list of point set matching/ point set registration resources.
 - [Intelligent remote sensing data analyis](http://mplab.sztaki.hu/remotesensing/index.html)
 
 <a name="tools"></a>
-### Tools
-
----
+## Tools
 
 - [VLFeat](http://www.vlfeat.org/)
 - [PCL: Point Cloud Library](https://github.com/PointCloudLibrary/pcl)
