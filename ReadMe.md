@@ -1,6 +1,6 @@
 # Point Set Matching/Registration Material
 
-A list of point set matching/ point set registration resources. 
+A list of point set matching / point set registration resources. 
 
 ## Table of Contents
 
