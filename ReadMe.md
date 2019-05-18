@@ -126,6 +126,7 @@ A list of point set matching / point set registration resources.
 - [DARE] Density adaptive point set registration, CVPR'2018 [[pdf]](https://arxiv.org/pdf/1804.01495.pdf) [[code]](https://github.com/felja633/DARE)
 - [GC-RANSAC] Graph-Cut RANSAC, CVPR'2018 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Barath_Graph-Cut_RANSAC_CVPR_2018_paper.pdf) [[code]](https://github.com/danini/graph-cut-ransac)
 - [3D-CODED] 3D-CODED: 3D correspondences by deep deformation, ECCV'2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Thibault_Groueix_Shape_correspondences_from_ECCV_2018_paper.pdf) [[project]](http://imagine.enpc.fr/~groueixt/3D-CODED/) [[code]](https://github.com/ThibaultGROUEIX/3D-CODED)
+- [N3Net] Neural Nearest Neighbors Networks, NeurIPS'2018 [[pdf]](https://arxiv.org/pdf/1810.12575) [[code]](https://github.com/visinf/n3net)
 - [3DFeat-NET] 3dfeat-net: Weakly supervised local 3d features for point cloud registration, ECCV'2018 [[pdf]](https://arxiv.org/pdf/1807.09413) [[code]](https://github.com/yewzijian/3DFeatNet)
 - [MVDesc-RMBP] Learning and Matching Multi-View Descriptors for Registration of Point Clouds, ECCV'2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Zhou_Learning_and_Matching_ECCV_2018_paper.pdf)
 - [HGMR] HGMR: Hierarchical Gaussian Mixtures forAdaptive 3D Registration, ECCV'2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Eckart_Fast_and_Accurate_ECCV_2018_paper.pdf) [GMM-Tree] Fast and Accurate Point Cloud Registration using Trees of Gaussian Mixtures, arxiv'2018 [[pdf]](https://arxiv.org/abs/1807.02587)
@@ -150,6 +151,7 @@ A list of point set matching / point set registration resources.
 - [TEASER] A Polynomial-time Solution for Robust Registration with Extreme Outlier Rates, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1903.08588)
 - [FPR] Efficient Registration of High-Resolution Feature Enhanced Point Clouds, TPAMI'2019 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8352814/)
 - [DCP] Deep Closest Point: Learning Representations for Point Cloud Registration, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1905.03304.pdf) [[code]](https://github.com/WangYueFt/dcp)
+- [DeepICP] DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration, [[pdf]](https://arxiv.org/pdf/1905.04153)
 
 <a name="mrm"></a>
 ### Mismatch Removal Methods
