@@ -151,7 +151,7 @@ A list of point set matching / point set registration resources.
 - [TEASER] A Polynomial-time Solution for Robust Registration with Extreme Outlier Rates, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1903.08588)
 - [FPR] Efficient Registration of High-Resolution Feature Enhanced Point Clouds, TPAMI'2019 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8352814/)
 - [DCP] Deep Closest Point: Learning Representations for Point Cloud Registration, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1905.03304.pdf) [[code]](https://github.com/WangYueFt/dcp)
-- [DeepICP] DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration, [[pdf]](https://arxiv.org/pdf/1905.04153)
+- [DeepICP] DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1905.04153)
 
 <a name="mrm"></a>
 ### Mismatch Removal Methods
