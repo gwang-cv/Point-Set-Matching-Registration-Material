@@ -202,6 +202,7 @@ A list of point set matching / point set registration resources.
 <a name="misc1"></a>
 ### Misc
 
+- [ASIFT] ASIFT: An Algorithm for Fully Affine Invariant Comparison, IPOL'2011 [[pdf]](http://www.ipol.im/pub/art/2011/my-asift/article.pdf) [[project]](http://www.cmap.polytechnique.fr/~yu/research/ASIFT/demo.html#SIFT%20and%20ASIFT%20---%20online%20demo%20:%20try%20if%20your%20images%20match!) [[online demo]](http://demo.ipol.im/demo/my_affine_sift/)
 - [RootSIFT] Three things everyone should know to improve object retrieval, CVPR'2012 [[pdf]](http://www.cs.sfu.ca/CourseCentral/820/li/material/source/papers/3things-retrieval-2012.pdf) [[related code]](https://www.pyimagesearch.com/2015/04/13/implementing-rootsift-in-python-and-opencv/#)
 - [DM-CNN] Descriptor Matching with Convolutional Neural Networks: a Comparison to SIFT, arXiv'2014 [[pdf]](https://www.researchgate.net/profile/Alexey_Dosovitskiy/publication/262568634_Descriptor_Matching_with_Convolutional_Neural_Networks_a_Comparison_to_SIFT/links/541fe8dc0cf2218008d41617.pdf)
 - [DASC] DASC: Robust Dense Descriptor for Multi-modal and Multi-spectral Correspondence Estimation, TPAMI'2017 [[pdf]](https://arxiv.org/pdf/1604.07944) [[project]](http://diml.yonsei.ac.kr/~srkim/DASC/)
