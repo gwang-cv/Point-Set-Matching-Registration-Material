@@ -66,7 +66,7 @@ A list of point set matching / point set registration resources.
 - [CPD] Point set registration: Coherent point drift, NIPS'2007 [[pdf]](http://papers.nips.cc/paper/2962-non-rigid-point-set-registration-coherent-point-drift.pdf) TPAMI'2010 [[pdf]](https://arxiv.org/pdf/0905.2635) [[code]](https://sites.google.com/site/myronenko/research/cpd)
 - [PFSD] Point set registration via particle filtering and stochastic dynamics, TPAMI'2010 [[pdf]](http://iss.bu.edu/tannenba/publications/papers/sandhu-pami09-pointset.pdf)
 - [ECMPR] Rigid and articulated point registration with expectation conditional maximization, TPAMI'2011 [[pdf]](https://hal.inria.fr/docs/00/43/57/72/PDF/RR-7114.pdf) [[project]](https://team.inria.fr/perception/research/ecmpr/) [[code]](https://team.inria.fr/perception/files/2015/04/ecmpr_demo.zip)
-- [GMMReg/TPS-L2] Robust point set registration using gaussian mixture models, NIPS'2005 TPAMI'2011 [[pdf]](https://ieeexplore.ieee.org/abstract/document/5674050/) [[code]](https://github.com/bing-jian/gmmreg)
+- [GMMReg/TPS-L2] Robust point set registration using gaussian mixture models, ICCV'2005 TPAMI'2011 [[pdf]](https://ieeexplore.ieee.org/abstract/document/5674050/) [[code]](https://github.com/bing-jian/gmmreg)
 - [TPRL] Topology preserving relaxation labeling for nonrigid point matching, TPAMI'2011 [[pdf]](https://ieeexplore.ieee.org/abstract/document/5590251/)
 - [OOH] Robust point set registration using EM-ICP with information-theoretically optimal outlier handling, CVPR'2011 [[pdf]](https://ieeexplore.ieee.org/abstract/document/5995744)
 - [SGO] Stochastic global optimization for robust point set registration, CVIU'2011
