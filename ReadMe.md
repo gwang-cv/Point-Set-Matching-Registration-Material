@@ -220,6 +220,7 @@ A list of point set matching / point set registration resources.
 - [HardNet] Working hard to know your neighbor's margins: Local descriptor learning loss, CVPR'2018 [[pdf]](http://papers.nips.cc/paper/7068-working-hard-to-know-your-neighbors-margins-local-descriptor-learning-loss.pdf) [[code]](https://github.com/DagnyT/hardnet/tree/master)
 - [AffNet] Repeatability Is Not Enough: Learning Discriminative Affine Regions via Discriminability, ECCV'2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dmytro_Mishkin_Repeatability_Is_Not_ECCV_2018_paper.pdf) [[code]](https://github.com/ducha-aiki/affnet)
 - [GCNv2] GCNv2: Efficient Correspondence Prediction for Real-Time SLAM, ICLR'2019 [[pdf]](https://arxiv.org/pdf/1902.11046.pdf) [[code]](https://github.com/jiexiong2016/GCNv2_SLAM)
+- [D2-Net] D2-Net: A Trainable CNN for Joint Detection and Description of Local Features, CVPR'2019 [[pdf]](https://dsmn.ml/files/d2-net/d2-net.pdf) [[project]](https://dsmn.ml/publications/d2-net.html) [[code]](https://github.com/mihaidusmanu/d2-net)
 
 
 <a name="app"></a>
