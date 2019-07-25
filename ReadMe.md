@@ -229,6 +229,7 @@ A list of point set matching / point set registration resources.
 - [TCDCN] Facial Landmark Detection by Deep Multi-task Learning, ECCV'2014 [[pdf]](http://home.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepfacealign.pdf) [[project]](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html)
 - [LAI] Object matching using a locally affine invariant and linear programming techniques, TPAMI'2013 [[pdf]](https://ieeexplore.ieee.org/abstract/document/6189359/)
 - [GeoDesc] GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints, ECCV'2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zixin_Luo_Learning_Local_Descriptors_ECCV_2018_paper.pdf) [[code]](https://github.com/lzx551402/geodesc)
+- [NDDR-CNN] NDDR-CNN: Layerwise Feature Fusing in Multi-Task CNNsby Neural Discriminative Dimensionality Reduction, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_NDDR-CNN_Layerwise_Feature_Fusing_in_Multi-Task_CNNs_by_Neural_Discriminative_CVPR_2019_paper.pdf) [[code]](https://github.com/ethanygao/NDDR-CNN)
 
 <a name="df"></a>
 ### Deep Features
