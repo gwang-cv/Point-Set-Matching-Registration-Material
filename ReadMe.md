@@ -125,7 +125,9 @@ A list of point set matching / point set registration resources.
 - [LPM] Locality Preserving Matching, IJCAI'2017 [[pdf]](https://www.ijcai.org/proceedings/2017/0627.pdf) IJCV'2019 [[pdf]](https://link.springer.com/article/10.1007/s11263-018-1117-z)  [[code]](https://github.com/jiayi-ma?tab=repositories)
 - [DARE] Density adaptive point set registration, CVPR'2018 [[pdf]](https://arxiv.org/pdf/1804.01495.pdf) [[code]](https://github.com/felja633/DARE)
 - [GC-RANSAC] Graph-Cut RANSAC, CVPR'2018 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Barath_Graph-Cut_RANSAC_CVPR_2018_paper.pdf) [[code]](https://github.com/danini/graph-cut-ransac)
+- [Ppfnet] Ppfnet: Global context aware local features for robust 3d point matching, CVPR'2018 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/html/Deng_PPFNet_Global_Context_CVPR_2018_paper.html)
 - [3D-CODED] 3D-CODED: 3D correspondences by deep deformation, ECCV'2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Thibault_Groueix_Shape_correspondences_from_ECCV_2018_paper.pdf) [[project]](http://imagine.enpc.fr/~groueixt/3D-CODED/) [[code]](https://github.com/ThibaultGROUEIX/3D-CODED)
+- [GPCReg-TS] Efficient global point cloud registration by matching rotation invariant features through translation search, ECCV'2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/html/Yinlong_Liu_Efficient_Global_Point_ECCV_2018_paper.html)
 - [N3Net] Neural Nearest Neighbors Networks, NeurIPS'2018 [[pdf]](https://arxiv.org/pdf/1810.12575) [[code]](https://github.com/visinf/n3net)
 - [3DFeat-NET] 3dfeat-net: Weakly supervised local 3d features for point cloud registration, ECCV'2018 [[pdf]](https://arxiv.org/pdf/1807.09413) [[code]](https://github.com/yewzijian/3DFeatNet)
 - [MVDesc-RMBP] Learning and Matching Multi-View Descriptors for Registration of Point Clouds, ECCV'2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Lei_Zhou_Learning_and_Matching_ECCV_2018_paper.pdf)
@@ -152,11 +154,17 @@ A list of point set matching / point set registration resources.
 - [DeepICP] DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1905.04153)
 - [RelativeNet] 3D Local Features for Direct Pairwise Registration, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_3D_Local_Features_for_Direct_Pairwise_Registration_CVPR_2019_paper.pdf) 
 - [aff+vSVF] Networks for Joint Affine and Non-Parametric Image Registration, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Networks_for_Joint_Affine_and_Non-Parametric_Image_Registration_CVPR_2019_paper.pdf)
+- [localReg+vSVF] Metric Learning for Image Registration, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niethammer_Metric_Learning_for_Image_Registration_CVPR_2019_paper.pdf) [[code]](https://github.com/uncbiag/registration)
 - [PointNetLK] PointNetLK: Robust & Efficient Point Cloud Registration using PointNet, CVPR'2019 [[pdf]](https://arxiv.org/pdf/1903.05711) [[code]](https://github.com/hmgoforth/PointNetLK)
 - [SDRSAC] SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Le_SDRSAC_Semidefinite-Based_Randomized_Approach_for_Robust_Point_Cloud_Registration_Without_CVPR_2019_paper.pdf) [[code]](https://github.com/intellhave/SDRSAC)
 - [FilterReg] FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization, CVPR'2019 [[pdf]](https://arxiv.org/pdf/1811.10136) [[project]](https://sites.google.com/view/filterreg/home) [[code]](https://bitbucket.org/gaowei19951004/poser/src/master/) [[code]](https://github.com/neka-nat/probreg/blob/)
 - [POINT2] Multiview 2D/3D Rigid Registration via a Point-Of-Interest Network for Tracking and Triangulation, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liao_Multiview_2D3D_Rigid_Registration_via_a_Point-Of-Interest_Network_for_Tracking_CVPR_2019_paper.pdf)
-- [localReg+vSVF] Metric Learning for Image Registration, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niethammer_Metric_Learning_for_Image_Registration_CVPR_2019_paper.pdf) [[code]](https://github.com/uncbiag/registration)
+- [Geo-CNN] Modeling Local Geometric Structure of 3D Point Clouds using Geo-CNN, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lan_Modeling_Local_Geometric_Structure_of_3D_Point_Clouds_Using_Geo-CNN_CVPR_2019_paper.pdf)
+- [GFrames] GFrames: Gradient-Based Local Reference Framefor 3D Shape Matching, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Melzi_GFrames_Gradient-Based_Local_Reference_Frame_for_3D_Shape_Matching_CVPR_2019_paper.pdf)
+- [3DSmoothNet] The Perfect Match: 3D Point Cloud Matching with Smoothed Densities, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gojcic_The_Perfect_Match_3D_Point_Cloud_Matching_With_Smoothed_Densities_CVPR_2019_paper.pdf) [[code]](https://github.com/zgojcic/3DSmoothNet)
+- [LPS] A Robust Local Spectral Descriptor for Matching Non-Rigid Shapes with Incompatible Shape Structures, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_A_Robust_Local_Spectral_Descriptor_for_Matching_Non-Rigid_Shapes_With_CVPR_2019_paper.pdf)
+- [RF-Net] RF-Net: An End-to-End Image Matching Network based on Receptive Field, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_RF-Net_An_End-To-End_Image_Matching_Network_Based_on_Receptive_Field_CVPR_2019_paper.pdf)
+- [QATM] QATM: Quality-Aware Template Matching For Deep Learning, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_QATM_Quality-Aware_Template_Matching_for_Deep_Learning_CVPR_2019_paper.pdf) [[code]](https://github.com/cplusx/QATM)
 
 
 <a name="mrm"></a>
@@ -190,6 +198,8 @@ A list of point set matching / point set registration resources.
 - [LMR] LMR: Learning A Two-class Classifier for Mismatch Removal, TIP'2019 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8672170/) [[code]](https://github.com/StaRainJ/LMR)
 - [PFFM] Progressive Filtering for Feature Matching, ICASSP'2019 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8682372/)
 - [NM-Net] NM-Net: Mining Reliable Neighbors for Robust Feature Correspondences, arXiv'2019 [[pdf]](https://arxiv.org/pdf/1904.00320)
+- [MAGSAC] MAGSAC: Marginalizing Sample Consensus, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Barath_MAGSAC_Marginalizing_Sample_Consensus_CVPR_2019_paper.pdf) [[code]](https://github.com/danini/magsac)
+- [DLCM] Unsupervised Learning of Consensus Maximization for 3D Vision Problems, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Probst_Unsupervised_Learning_of_Consensus_Maximization_for_3D_Vision_Problems_CVPR_2019_paper.pdf)
 
 <a name="gmm"></a>
 ### Graph Matching Methods
@@ -204,6 +214,8 @@ A list of point set matching / point set registration resources.
 - [FGM] Factorized graph matching, CVPR'2012 [[pdf]](https://kilthub.figshare.com/articles/Factorized_Graph_Matching/6554858/files/12037043.pdf) [[code]](http://www.f-zhou.com/gm_code.html)
 - [DGM] Deformable Graph Matching, CVPR'2013 [[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Zhou_Deformable_Graph_Matching_2013_CVPR_paper.pdf) [[code]](https://github.com/zhfe99/fgm)
 - [MS] Progressive mode-seeking on graphs for sparse feature matching, ECCV'2014 [[pdf]](http://ro.uow.edu.au/cgi/viewcontent.cgi?article=5118&context=eispapers) [[code]](https://download.csdn.net/download/family0823/9366365?fps=1&locationNum=1)
+- [MGM] A convex relaxation for multi-graph matching, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Swoboda_A_Convex_Relaxation_for_Multi-Graph_Matching_CVPR_2019_paper.pdf)
+
 
 <a name="misc1"></a>
 ### Misc
@@ -226,6 +238,7 @@ A list of point set matching / point set registration resources.
 - [AffNet] Repeatability Is Not Enough: Learning Discriminative Affine Regions via Discriminability, ECCV'2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dmytro_Mishkin_Repeatability_Is_Not_ECCV_2018_paper.pdf) [[code]](https://github.com/ducha-aiki/affnet)
 - [GCNv2] GCNv2: Efficient Correspondence Prediction for Real-Time SLAM, ICLR'2019 [[pdf]](https://arxiv.org/pdf/1902.11046.pdf) [[code]](https://github.com/jiexiong2016/GCNv2_SLAM)
 - [D2-Net] D2-Net: A Trainable CNN for Joint Detection and Description of Local Features, CVPR'2019 [[pdf]](https://dsmn.ml/files/d2-net/d2-net.pdf) [[project]](https://dsmn.ml/publications/d2-net.html) [[code]](https://github.com/mihaidusmanu/d2-net)
+- [SDC] SDC – Stacked Dilated Convolution: A Unified Descriptor Network for Dense Matching Tasks, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Schuster_SDC_-_Stacked_Dilated_Convolution_A_Unified_Descriptor_Network_for_CVPR_2019_paper.pdf)
 
 
 <a name="app"></a>
