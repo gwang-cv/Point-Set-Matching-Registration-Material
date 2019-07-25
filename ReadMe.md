@@ -142,17 +142,22 @@ A list of point set matching / point set registration resources.
 - [FPR] Efficient Registration of High-Resolution Feature Enhanced Point Clouds, TPAMI'2018 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8352814/)
 - [DFMM-GLSP] Non-rigid point set registration using dual-feature finite mixture model and global-local structural preservation, PR'2018 [[pdf]](https://www.researchgate.net/profile/Yang_Yang634/publication/323843423_Non-rigid_point_set_registration_using_dual-feature_finite_mixture_model_and_global-local_structural_preservation/links/5abda92545851584fa6fc44a/Non-rigid-point-set-registration-using-dual-feature-finite-mixture-model-and-global-local-structural-preservation.pdf)
 - [PR-Net] Non-Rigid Point Set Registration Networks, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1904.01428) [[code]](https://github.com/Lingjing324/PR-Net)
-- [SDRSAC] SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1904.03483) [[code]](https://github.com/intellhave/SDRSAC)
 - [3DRegNet] 3DRegNet: A Deep Neural Network for 3D Point Registration, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1904.01701.pdf)
-- [PointNetLK] PointNetLK: Robust & Efficient Point Cloud Registration using PointNet, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1903.05711) [[code]](https://github.com/hmgoforth/PointNetLK)
 - [RPM-MR] Nonrigid Point Set Registration with Robust Transformation Learning under Manifold Regularization, TNNLS'2019 [[pdf]](https://pdfs.semanticscholar.org/e8c9/75165ffc5af6cad6961b25f29ea112ae50dd.pdf) [[code]](https://github.com/jiayi-ma?tab=repositories)
 - [FGMM] Feature-guided Gaussian mixture model for image matching, PR'2019 [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320319301414)
 - [LSR-CFP] Least-squares registration of point sets over SE (d) using closed-form projections, CVIU'2019 [[pdf]](https://arxiv.org/pdf/1904.04218)
-- [FilterReg] FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization, CVPR'2019 [[pdf]](https://arxiv.org/pdf/1811.10136) [[project]](https://sites.google.com/view/filterreg/home) [[code]](https://bitbucket.org/gaowei19951004/poser/src/master/) [[code]](https://github.com/neka-nat/probreg/blob/)
 - [TEASER] A Polynomial-time Solution for Robust Registration with Extreme Outlier Rates, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1903.08588)
 - [FPR] Efficient Registration of High-Resolution Feature Enhanced Point Clouds, TPAMI'2019 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8352814/)
 - [DCP] Deep Closest Point: Learning Representations for Point Cloud Registration, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1905.03304.pdf) [[code]](https://github.com/WangYueFt/dcp)
 - [DeepICP] DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1905.04153)
+- [RelativeNet] 3D Local Features for Direct Pairwise Registration, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deng_3D_Local_Features_for_Direct_Pairwise_Registration_CVPR_2019_paper.pdf) 
+- [aff+vSVF] Networks for Joint Affine and Non-Parametric Image Registration, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_Networks_for_Joint_Affine_and_Non-Parametric_Image_Registration_CVPR_2019_paper.pdf)
+- [PointNetLK] PointNetLK: Robust & Efficient Point Cloud Registration using PointNet, CVPR'2019 [[pdf]](https://arxiv.org/pdf/1903.05711) [[code]](https://github.com/hmgoforth/PointNetLK)
+- [SDRSAC] SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Le_SDRSAC_Semidefinite-Based_Randomized_Approach_for_Robust_Point_Cloud_Registration_Without_CVPR_2019_paper.pdf) [[code]](https://github.com/intellhave/SDRSAC)
+- [FilterReg] FilterReg: Robust and Efficient Probabilistic Point-Set Registration using Gaussian Filter and Twist Parameterization, CVPR'2019 [[pdf]](https://arxiv.org/pdf/1811.10136) [[project]](https://sites.google.com/view/filterreg/home) [[code]](https://bitbucket.org/gaowei19951004/poser/src/master/) [[code]](https://github.com/neka-nat/probreg/blob/)
+- [POINT2] Multiview 2D/3D Rigid Registration via a Point-Of-Interest Network for Tracking and Triangulation, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liao_Multiview_2D3D_Rigid_Registration_via_a_Point-Of-Interest_Network_for_Tracking_CVPR_2019_paper.pdf)
+- [localReg+vSVF] Metric Learning for Image Registration, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Niethammer_Metric_Learning_for_Image_Registration_CVPR_2019_paper.pdf) [[code]](https://github.com/uncbiag/registration)
+
 
 <a name="mrm"></a>
 ### Mismatch Removal Methods
