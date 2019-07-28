@@ -235,10 +235,10 @@ A list of point set matching / point set registration resources.
 - [LAI] Object matching using a locally affine invariant and linear programming techniques, TPAMI'2013 [[pdf]](https://ieeexplore.ieee.org/abstract/document/6189359/)
 - [HPatches] HPatches: A benchmark and evaluation of handcrafted and learned local descriptors, CVPR'2017 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/html/Balntas_HPatches_A_Benchmark_CVPR_2017_paper.html)
 - [GeoDesc] GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints, ECCV'2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zixin_Luo_Learning_Local_Descriptors_ECCV_2018_paper.pdf) [[code]](https://github.com/lzx551402/geodesc)
+- [MIRROR] Matchable Image Retrieval by Learning from Surface Reconstruction ACCV'2018 [[pdf]](http://arxiv.org/abs/1811.10343) [[code]](https://github.com/hlzz/mirror)
 - [NDDR-CNN] NDDR-CNN: Layerwise Feature Fusing in Multi-Task CNNsby Neural Discriminative Dimensionality Reduction, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_NDDR-CNN_Layerwise_Feature_Fusing_in_Multi-Task_CNNs_by_Neural_Discriminative_CVPR_2019_paper.pdf) [[code]](https://github.com/ethanygao/NDDR-CNN)
 - [ContextDesc] ContextDesc: Local Descriptor Augmentation with Cross-Modality Context, CVPR'2019 [[pdf]](https://arxiv.org/abs/1904.04084) [[code]](https://github.com/lzx551402/contextdesc)
 - [Evaluation] An Evaluation of Feature Matchers forFundamental Matrix Estimation, BMVC'2019 [[pdf]](https://jwbian.net/Papers/FM_BMVC19.pdf)
-- [MIRROR] Matchable Image Retrieval by Learning from Surface Reconstruction ACCV'2018 [[pdf]](http://arxiv.org/abs/1811.10343) [[code]](https://github.com/hlzz/mirror)
 
 <a name="df"></a>
 ### Deep Features
