@@ -171,6 +171,7 @@ A list of point set matching / point set registration resources.
 - [QATM] QATM: Quality-Aware Template Matching For Deep Learning, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_QATM_Quality-Aware_Template_Matching_for_Deep_Learning_CVPR_2019_paper.pdf) [[code]](https://github.com/cplusx/QATM)
 
 
+
 <a name="mrm"></a>
 ### Mismatch Removal Methods
 
@@ -232,8 +233,12 @@ A list of point set matching / point set registration resources.
 - [Elastic2D3D] Efficient Globally Optimal 2D-to-3D Deformable Shape Matching, CVPR'2016 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lahner_Efficient_Globally_Optimal_CVPR_2016_paper.pdf) [[project]](https://vision.in.tum.de/~laehner/Elastic2D3D/)
 - [TCDCN] Facial Landmark Detection by Deep Multi-task Learning, ECCV'2014 [[pdf]](http://home.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepfacealign.pdf) [[project]](http://mmlab.ie.cuhk.edu.hk/projects/TCDCN.html)
 - [LAI] Object matching using a locally affine invariant and linear programming techniques, TPAMI'2013 [[pdf]](https://ieeexplore.ieee.org/abstract/document/6189359/)
+- [HPatches] HPatches: A benchmark and evaluation of handcrafted and learned local descriptors, CVPR'2017 [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/html/Balntas_HPatches_A_Benchmark_CVPR_2017_paper.html)
 - [GeoDesc] GeoDesc: Learning Local Descriptors by Integrating Geometry Constraints, ECCV'2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zixin_Luo_Learning_Local_Descriptors_ECCV_2018_paper.pdf) [[code]](https://github.com/lzx551402/geodesc)
 - [NDDR-CNN] NDDR-CNN: Layerwise Feature Fusing in Multi-Task CNNsby Neural Discriminative Dimensionality Reduction, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Gao_NDDR-CNN_Layerwise_Feature_Fusing_in_Multi-Task_CNNs_by_Neural_Discriminative_CVPR_2019_paper.pdf) [[code]](https://github.com/ethanygao/NDDR-CNN)
+- [ContextDesc] ContextDesc: Local Descriptor Augmentation with Cross-Modality Context, CVPR'2019 [[pdf]](https://arxiv.org/abs/1904.04084) [[code]](https://github.com/lzx551402/contextdesc)
+- [Evaluation] An Evaluation of Feature Matchers forFundamental Matrix Estimation, BMVC'2019 [[pdf]](https://jwbian.net/Papers/FM_BMVC19.pdf)
+- [MIRROR] Matchable Image Retrieval by Learning from Surface Reconstruction ACCV'2018 [[pdf]](http://arxiv.org/abs/1811.10343) [[code]](https://github.com/hlzz/mirror)
 
 <a name="df"></a>
 ### Deep Features
