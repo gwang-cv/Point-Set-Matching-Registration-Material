@@ -6,7 +6,7 @@ A list of point set matching / point set registration resources.
 
 - [Point Set Matching/Registration Material](#point-set-matchingregistration-material)
   - [Table of Contents](#table-of-contents)
-  - [Point Set Matching/Registration Methods [[wiki]](https://en.wikipedia.org/wiki/Point_set_registration)](#point-set-matchingregistration-methods-wikihttpsenwikipediaorgwikipointsetregistration)
+  - [Point Set Matching/Registration Methods](#point-set-matchingregistration-methods)
     - [Point Matching/Registration Methods](#point-matchingregistration-methods)
     - [Mismatch Removal Methods](#mismatch-removal-methods)
     - [Graph Matching Methods](#graph-matching-methods)
@@ -26,7 +26,7 @@ A list of point set matching / point set registration resources.
 
 
 <a name="pm1"></a>
-## Point Set Matching/Registration Methods [[wiki]](https://en.wikipedia.org/wiki/Point_set_registration)
+## Point Set Matching/Registration Methods
 
 
 <a name="pm"></a>
