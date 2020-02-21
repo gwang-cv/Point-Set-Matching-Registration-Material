@@ -169,8 +169,9 @@ A list of point set matching / point set registration resources.
 - [LPS] A Robust Local Spectral Descriptor for Matching Non-Rigid Shapes with Incompatible Shape Structures, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_A_Robust_Local_Spectral_Descriptor_for_Matching_Non-Rigid_Shapes_With_CVPR_2019_paper.pdf)
 - [RF-Net] RF-Net: An End-to-End Image Matching Network based on Receptive Field, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Shen_RF-Net_An_End-To-End_Image_Matching_Network_Based_on_Receptive_Field_CVPR_2019_paper.pdf)
 - [QATM] QATM: Quality-Aware Template Matching For Deep Learning, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_QATM_Quality-Aware_Template_Matching_for_Deep_Learning_CVPR_2019_paper.pdf) [[code]](https://github.com/cplusx/QATM)
-
-
+- [VBPSR] Robust Variational Bayesian Point Set Registration, ICCV'2019 [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Robust_Variational_Bayesian_Point_Set_Registration_ICCV_2019_paper.pdf)
+- [BCPD] A Bayesian Formulation of Coherent Point Drift, TPAMI'2020 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8985307) [[code]](https://github.com/ohirose/bcpd)
+- [StickyPillars] StickyPillars: Robust feature matching on point clouds using Graph Neural Networks, arXiv'2020 [[pdf]](https://arxiv.org/pdf/2002.03983)
 
 <a name="mrm"></a>
 ### Mismatch Removal Methods
