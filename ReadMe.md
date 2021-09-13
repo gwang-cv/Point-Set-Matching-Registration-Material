@@ -315,6 +315,8 @@ A list of point set matching / point set registration resources.
 - Multi-modal and Multi-spectral Registrationfor Natural Images, ECCV'2014 [[pdf]](http://www.cse.cuhk.edu.hk/~leojia/projects/multimodal/papers/multispectral_registration.pdf) [[project]](http://www.cse.cuhk.edu.hk/~leojia/projects/multimodal/)
 - Articulated and Generalized Gaussian KernelCorrelation for Human Pose Estimation, TIP'2016 [[pdf]](https://www.researchgate.net/publication/286510775_Articulated_and_Generalized_Gaussian_Kernel_Correlation_for_Human_Pose_Estimation?enrichId=rgreq-1fc1a14d1ced5b1cefa92e498e22f862-XXX&enrichSource=Y292ZXJQYWdlOzI4NjUxMDc3NTtBUzozMzg0NjEwNTc1MzE5MDRAMTQ1NzcwNjgxMjgwMQ%3D%3D&el=1_x_3&_esc=publicationCoverPdf)
 - Infrared and visible image fusion via gradient transfer and total variation minimization, Information Fusion'2016 [[pdf]](https://www.researchgate.net/profile/Chang_Li37/publication/292680729_Infrared_and_visible_image_fusion_via_gradient_transfer_and_total_variation_minimization/links/5a10e6cca6fdccc2d7999da3/Infrared-and-visible-image-fusion-via-gradient-transfer-and-total-variation-minimization.pdf) [[code]](https://github.com/jiayi-ma?tab=repositories)
+- [Workshop] [Image Matching: Local Features & Beyond](https://image-matching-workshop.github.io/), CVPR'2021 
+- [Challenge] [Image Matching Challenge 2021](https://www.cs.ubc.ca/research/image-matching-challenge/current)
 
 <a name="db"></a>
 ## Databases
