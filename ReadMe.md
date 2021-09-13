@@ -182,7 +182,7 @@ A list of point set matching / point set registration resources.
 - [RGM] Robust Point Cloud Registration Framework Based on Deep Graph Matching, CVPR'2021 [[code]](https://github.com/fukexue/RGM)
 - [PREDATOR] PREDATOR: Registration of 3D Point Clouds with Low Overlap, CVPR'2021 [[code]](https://github.com/overlappredator/OverlapPredator)
 - [COTR] COTR: Correspondence Transformer for Matching Across Images, ICCV'2021 [[code]](https://github.com/ubc-vision/COTR)
-- [DFM] DFM: A Performance Baseline for Deep Feature Matching,CVPR'2021 [[code]](https://github.com/ufukefe/DFM)
+- [DFM] DFM: A Performance Baseline for Deep Feature Matching, CVPR'2021 [[code]](https://github.com/ufukefe/DFM)
 
 
 
