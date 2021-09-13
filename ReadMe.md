@@ -152,7 +152,7 @@ A list of point set matching / point set registration resources.
 - [RPM-MR] Nonrigid Point Set Registration with Robust Transformation Learning under Manifold Regularization, TNNLS'2019 [[pdf]](https://pdfs.semanticscholar.org/e8c9/75165ffc5af6cad6961b25f29ea112ae50dd.pdf) [[code]](https://github.com/jiayi-ma?tab=repositories)
 - [FGMM] Feature-guided Gaussian mixture model for image matching, PR'2019 [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320319301414)
 - [LSR-CFP] Least-squares registration of point sets over SE (d) using closed-form projections, CVIU'2019 [[pdf]](https://arxiv.org/pdf/1904.04218)
-- [TEASER] A Polynomial-time Solution for Robust Registration with Extreme Outlier Rates, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1903.08588)
+- [TEASER] Teaser: Fast and certifiable point cloud registration, T-Robotics'2020 [[pdf]](https://arxiv.org/pdf/2001.07715.pdf) [[code]](https://github.com/MIT-SPARK/TEASER-plusplus)
 - [FPR] Efficient Registration of High-Resolution Feature Enhanced Point Clouds, TPAMI'2019 [[pdf]](https://ieeexplore.ieee.org/abstract/document/8352814/)
 - [DCP] Deep Closest Point: Learning Representations for Point Cloud Registration, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1905.03304.pdf) [[code]](https://github.com/WangYueFt/dcp)
 - [DeepICP] DeepICP: An End-to-End Deep Neural Network for 3D Point Cloud Registration, arxiv'2019 [[pdf]](https://arxiv.org/pdf/1905.04153)
@@ -172,6 +172,19 @@ A list of point set matching / point set registration resources.
 - [VBPSR] Robust Variational Bayesian Point Set Registration, ICCV'2019 [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Robust_Variational_Bayesian_Point_Set_Registration_ICCV_2019_paper.pdf)
 - [BCPD] A Bayesian Formulation of Coherent Point Drift, TPAMI'2020 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8985307) [[code]](https://github.com/ohirose/bcpd)
 - [StickyPillars] StickyPillars: Robust feature matching on point clouds using Graph Neural Networks, arXiv'2020 [[pdf]](https://arxiv.org/pdf/2002.03983)
+- [DGR] Deep Global Registration, CVPR'2020 [[code](https://github.com/chrischoy/DeepGlobalRegistration)]
+- [LearningMultiview] Learning multiview 3D point cloud registration, CVPR'2020 [[code](https://github.com/zgojcic/3D_multiview_reg)]
+- [CG-SAC] Compatibility-Guided Sampling Consensus for 3-D Point Cloud Registration, TGRS'2020 
+- [RPM-Net] RPM-Net: Robust Point Matching using Learned Features, CVPR'2020 [[code]](https://github.com/yewzijian/RPMNet)
+- [SpinNet] SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration, CVPR'2021 [[code]](https://github.com/QingyongHu/SpinNet)
+- [PointDSC] PointDSC: Robust Point Cloud Registration using Deep Spatial Consistency, CVPR'2021 [[code]](https://github.com/XuyangBai/PointDSC/)
+- [ReAgent] ReAgent: Point Cloud Registration using Imitation and Reinforcement Learning, CVPR'2021 [[code]](https://github.com/dornik/reagent)
+- [RGM] Robust Point Cloud Registration Framework Based on Deep Graph Matching, CVPR'2021 [[code]](https://github.com/fukexue/RGM)
+- [PREDATOR] PREDATOR: Registration of 3D Point Clouds with Low Overlap, CVPR'2021 [[code]](https://github.com/overlappredator/OverlapPredator)
+- [COTR] COTR: Correspondence Transformer for Matching Across Images, ICCV'2021 [[code]](https://github.com/ubc-vision/COTR)
+- [DFM] DFM: A Performance Baseline for Deep Feature Matching,CVPR'2021 [[code]](https://github.com/ufukefe/DFM)
+
+
 
 <a name="mrm"></a>
 ### Mismatch Removal Methods
@@ -206,6 +219,8 @@ A list of point set matching / point set registration resources.
 - [NM-Net] NM-Net: Mining Reliable Neighbors for Robust Feature Correspondences, arXiv'2019 [[pdf]](https://arxiv.org/pdf/1904.00320)
 - [MAGSAC] MAGSAC: Marginalizing Sample Consensus, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Barath_MAGSAC_Marginalizing_Sample_Consensus_CVPR_2019_paper.pdf) [[code]](https://github.com/danini/magsac)
 - [DLCM] Unsupervised Learning of Consensus Maximization for 3D Vision Problems, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Probst_Unsupervised_Learning_of_Consensus_Maximization_for_3D_Vision_Problems_CVPR_2019_paper.pdf)
+- [SuperGlue] SuperGlue: Learning Feature Matching with Graph Neural Networks, CVPR'2020 [[code]](https://github.com/magicleap/SuperGluePretrainedNetwork)
+- [EifficientDeterministicSearch] Efficient Deterministic Search with Robust Loss Functions for Geometric Model Fitting, TPAMI'2021 [[code]](https://github.com/AoxiangFan/EifficientDeterministicSearch)
 
 <a name="gmm"></a>
 ### Graph Matching Methods
@@ -249,7 +264,20 @@ A list of point set matching / point set registration resources.
 - [AffNet] Repeatability Is Not Enough: Learning Discriminative Affine Regions via Discriminability, ECCV'2018 [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dmytro_Mishkin_Repeatability_Is_Not_ECCV_2018_paper.pdf) [[code]](https://github.com/ducha-aiki/affnet)
 - [GCNv2] GCNv2: Efficient Correspondence Prediction for Real-Time SLAM, ICLR'2019 [[pdf]](https://arxiv.org/pdf/1902.11046.pdf) [[code]](https://github.com/jiexiong2016/GCNv2_SLAM)
 - [D2-Net] D2-Net: A Trainable CNN for Joint Detection and Description of Local Features, CVPR'2019 [[pdf]](https://dsmn.ml/files/d2-net/d2-net.pdf) [[project]](https://dsmn.ml/publications/d2-net.html) [[code]](https://github.com/mihaidusmanu/d2-net)
-- [SDC] SDC – Stacked Dilated Convolution: A Unified Descriptor Network for Dense Matching Tasks, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Schuster_SDC_-_Stacked_Dilated_Convolution_A_Unified_Descriptor_Network_for_CVPR_2019_paper.pdf)
+- [SDC] Stacked Dilated Convolution: A Unified Descriptor Network for Dense Matching Tasks, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Schuster_SDC_-_Stacked_Dilated_Convolution_A_Unified_Descriptor_Network_for_CVPR_2019_paper.pdf)
+- [GIFT] GIFT: Learning transformation-invariant dense visual descriptors via group cnns, NeurIPS'2019 [[code]](https://github.com/zju3dv/GIFT)
+- [DISK] DISK: Learning local features with policy gradient, NeurIPS'2020 [[code]](https://github.com/cvlab-epfl/disk)
+- [ASLFeat] ASLFeat: Learning Local Features of Accurate Shape and Localization, CVPR'2020 [[code]](https://github.com/lzx551402/aslfeat)
+- [DualRC-Net] Dual-Resolution Correspondence Networks, NeurIPS'2020 [[code]](https://github.com/ActiveVisionLab/DualRC-Net)
+- [GLU-Net] GLU-Net: Global-local universal network for dense flow and correspondences, CVPR'2020 [[code]](https://github.com/PruneTruong/GLU-Net)
+- [GOCor] GOCor: Bringing globally optimized correspondence volumes into your neural network, NeurIPS'2020 [[code]](https://github.com/PruneTruong/GOCor)
+- [XResolution] X Resolution Correspondence Networks, arXiv'2020 [[code]](https://xyz-r-d.github.io/xrcnet)
+- [Sparse-ncnet] Efficient neighbourhood consensus networks via submanifold sparse convolutions, ECCV'2020 [[code]](https://github.com/ignacio-rocco/sparse-ncnet)
+- [CaPS] Learning feature descriptors using camera pose supervision, ECCV'2020 [[code]](https://github.com/qianqianwang68/caps)
+- [COTR] COTR: Correspondence Transformer for Matching Across Images, ICCV'2021 [[code]](https://github.com/ubc-vision/COTR)
+- [CHM] Convolutional Hough Matching Networks, CVPR'2021 [[code]](https://github.com/juhongm999/chm)
+- [LoFTR] LoFTR: Detector-free local feature matching with transformers, CVPR'2021 [[code]](https://github.com/zju3dv/LoFTR)
+
 
 
 <a name="app"></a>
@@ -293,6 +321,8 @@ A list of point set matching / point set registration resources.
 
 ### General databases
 
+- [MegaDepth](https://www.cs.cornell.edu/projects/megadepth/)
+- [ScanNet](https://github.com/ScanNet/ScanNet#scannet-data)
 - [2D Synthesized Chui-Rangarajan Dataset (deformation, noise, and outliers)](https://www.cise.ufl.edu/~anand/students/chui/research.html)
 - [TOSCA](http://tosca.cs.technion.ac.il/book/resources_data.html)
 - [Multi-View Stereo Dataset](http://vision.middlebury.edu/mview/data/)
