@@ -172,6 +172,7 @@ A list of point set matching / point set registration resources.
 - [VBPSR] Robust Variational Bayesian Point Set Registration, ICCV'2019 [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Robust_Variational_Bayesian_Point_Set_Registration_ICCV_2019_paper.pdf)
 - [BCPD] A Bayesian Formulation of Coherent Point Drift, TPAMI'2020 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8985307) [[code]](https://github.com/ohirose/bcpd)
 - [StickyPillars] StickyPillars: Robust feature matching on point clouds using Graph Neural Networks, arXiv'2020 [[pdf]](https://arxiv.org/pdf/2002.03983)
+- [Pointpwc-net] Pointpwc-net: Cost volume on point clouds for (self-) supervised scene flow estimation, ECCV'2020 [[code](https://github.com/DylanWusee/PointPWC)]
 - [DGR] Deep Global Registration, CVPR'2020 [[code](https://github.com/chrischoy/DeepGlobalRegistration)]
 - [LearningMultiview] Learning multiview 3D point cloud registration, CVPR'2020 [[code](https://github.com/zgojcic/3D_multiview_reg)]
 - [CG-SAC] Compatibility-Guided Sampling Consensus for 3-D Point Cloud Registration, TGRS'2020 
@@ -183,7 +184,7 @@ A list of point set matching / point set registration resources.
 - [PREDATOR] PREDATOR: Registration of 3D Point Clouds with Low Overlap, CVPR'2021 [[code]](https://github.com/overlappredator/OverlapPredator)
 - [COTR] COTR: Correspondence Transformer for Matching Across Images, ICCV'2021 [[code]](https://github.com/ubc-vision/COTR)
 - [DFM] DFM: A Performance Baseline for Deep Feature Matching, CVPR'2021 [[code]](https://github.com/ufukefe/DFM)
-
+- [FastRobustICP] Fast and Robust Iterative Closest Point, TPAMI'2021 [[code](https://github.com/yaoyx689/Fast-Robust-ICP)]
 
 
 <a name="mrm"></a>
@@ -277,6 +278,7 @@ A list of point set matching / point set registration resources.
 - [COTR] COTR: Correspondence Transformer for Matching Across Images, ICCV'2021 [[code]](https://github.com/ubc-vision/COTR)
 - [CHM] Convolutional Hough Matching Networks, CVPR'2021 [[code]](https://github.com/juhongm999/chm)
 - [LoFTR] LoFTR: Detector-free local feature matching with transformers, CVPR'2021 [[code]](https://github.com/zju3dv/LoFTR)
+
 
 
 
