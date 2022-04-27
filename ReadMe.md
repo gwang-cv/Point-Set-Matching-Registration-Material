@@ -287,7 +287,7 @@ A list of point set matching / point set registration resources.
 - [CaPS] Learning feature descriptors using camera pose supervision, ECCV'2020 [[code]](https://github.com/qianqianwang68/caps)
 - [COTR] COTR: Correspondence Transformer for Matching Across Images, ICCV'2021 [[code]](https://github.com/ubc-vision/COTR)
 - [CHM] Convolutional Hough Matching Networks, CVPR'2021 [[code]](https://github.com/juhongm999/chm)
-- [LoFTR] LoFTR: Detector-free local feature matching with transformers, CVPR'2021 [[code]](https://github.com/zju3dv/LoFTR)
+- [Key.Net] Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters Revisited, TPAMI'2022 [[code]](https://github.com/axelBarroso/Key.Net-Pytorch)
 
 
 
