@@ -8,7 +8,7 @@ A list of point set matching / point set registration resources.
   - [Table of Contents](#table-of-contents)
   - [Point Set Matching/Registration Methods](#point-set-matchingregistration-methods)
     - [Point Matching/Registration Methods](#point-matchingregistration-methods)
-    - [Mismatch Removal / Correspondence Pruning Methods](#mismatch-removal-methods)
+    - [Mismatch Removal/Correspondence Pruning Methods](#mismatch-removalcorrespondence-pruning-methods)
     - [Graph Matching Methods](#graph-matching-methods)
     - [Misc](#misc)
     - [Deep Features](#deep-features)
@@ -188,7 +188,7 @@ A list of point set matching / point set registration resources.
 
 
 <a name="mrm"></a>
-### Mismatch Removal / Correspondence Pruning Methods
+### Mismatch Removal/Correspondence Pruning Methods
 
 - [RANSAC] Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography, 1981 [[pdf]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a460585.pdf) [[wiki]](https://en.wikipedia.org/wiki/Random_sample_consensus)
 - [MLESAC] MLESAC: A new robust estimator with application to estimating image geometry, CVIU'2000 [[pdf]](http://www.academia.edu/download/3436793/torr_mlesac.pdf) [[code_pcl]](https://github.com/PointCloudLibrary/pcl/tree/master/sample_consensus/include/pcl/sample_consensus)
