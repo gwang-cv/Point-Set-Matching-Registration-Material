@@ -185,6 +185,8 @@ A list of point set matching / point set registration resources.
 - [COTR] COTR: Correspondence Transformer for Matching Across Images, ICCV'2021 [[code]](https://github.com/ubc-vision/COTR)
 - [DFM] DFM: A Performance Baseline for Deep Feature Matching, CVPR'2021 [[code]](https://github.com/ufukefe/DFM)
 - [FastRobustICP] Fast and Robust Iterative Closest Point, TPAMI'2021 [[code](https://github.com/yaoyx689/Fast-Robust-ICP)]
+- [GeoTransformer] Geometric Transformer for Fast and Robust Point Cloud Registration, CVPR'2022 [[code]](https://github.com/qinzheng93/GeoTransformer)
+
 
 
 <a name="mrm"></a>
