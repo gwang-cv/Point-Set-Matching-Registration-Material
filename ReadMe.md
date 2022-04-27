@@ -8,7 +8,7 @@ A list of point set matching / point set registration resources.
   - [Table of Contents](#table-of-contents)
   - [Point Set Matching/Registration Methods](#point-set-matchingregistration-methods)
     - [Point Matching/Registration Methods](#point-matchingregistration-methods)
-    - [Mismatch Removal Methods](#mismatch-removal-methods)
+    - [Mismatch Removal / Correspondence Pruning Methods](#mismatch-removal-methods)
     - [Graph Matching Methods](#graph-matching-methods)
     - [Misc](#misc)
     - [Deep Features](#deep-features)
@@ -230,7 +230,7 @@ A list of point set matching / point set registration resources.
 - [LoFTR] Detector-free local feature matching with transformers, CVPR'2021 [[code]](https://github.com/zju3dv/LoFTR)
 - [GLOF] Robust Feature Matching Using Guided Local Outlier Factor, PR'2021 [[pdf](https://www.sciencedirect.com/science/article/pii/S0031320321001734)] [[code](https://github.com/gwang-cv/GLOF)]
 - [CAT] Correspondence Attention Transformer: A Context-sensitive Network for Two-view Correspondence Learning, TMM'2022 [[code]](https://github.com/jiayi-ma/CorresAttnTransformer)
-- [TransMVSNet] TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, CVPR'2022 [[code]](https://github.com/MegviiRobot/ TransMVSNet)
+- [TransMVSNet] TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, CVPR'2022 [[code]](https://github.com/MegviiRobot/TransMVSNet)
 
 
 <a name="gmm"></a>
