@@ -421,3 +421,6 @@ A list of point set matching / point set registration resources.
 - [Graph Matching Toolbox in MATLAB](http://www.timotheecour.com/software/graph_matching/graph_matching.html) 
 - [FAIR: Flexible Algorithms for Image Registration](https://github.com/C4IR/FAIR.m) [[pdf]](http://www.siam.org/books/fa06/Modersitzki_FAIR_2009_FA06.pdf)
 - [Range Image Registration Toolbox](http://eia.udg.es/~cmatabos/research.htm)
+
+- [Image Matching WebUI find matches between 2 images](https://github.com/Vincentqyw/image-matching-webui)
+- [hloc - the hierarchical localization toolbox](https://github.com/cvg/Hierarchical-Localization)  (2.3k stars)
