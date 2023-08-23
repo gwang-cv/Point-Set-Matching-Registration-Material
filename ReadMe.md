@@ -190,7 +190,7 @@ A list of point set matching / point set registration resources.
 
 
 <a name="mrm"></a>
-### Mismatch Removal/Correspondence Pruning Methods
+### Feature Matching/Mismatch Removing/Correspondence Learning/Pruning
 
 - [RANSAC] Random sample consensus: a paradigm for model fitting with applications to image analysis and automated cartography, 1981 [[pdf]](https://apps.dtic.mil/dtic/tr/fulltext/u2/a460585.pdf) [[wiki]](https://en.wikipedia.org/wiki/Random_sample_consensus)
 - [MLESAC] MLESAC: A new robust estimator with application to estimating image geometry, CVIU'2000 [[pdf]](http://www.academia.edu/download/3436793/torr_mlesac.pdf) [[code_pcl]](https://github.com/PointCloudLibrary/pcl/tree/master/sample_consensus/include/pcl/sample_consensus)
@@ -233,7 +233,10 @@ A list of point set matching / point set registration resources.
 - [GLOF] Robust Feature Matching Using Guided Local Outlier Factor, PR'2021 [[pdf](https://www.sciencedirect.com/science/article/pii/S0031320321001734)] [[code](https://github.com/gwang-cv/GLOF)]
 - [CAT] Correspondence Attention Transformer: A Context-sensitive Network for Two-view Correspondence Learning, TMM'2022 [[code]](https://github.com/jiayi-ma/CorresAttnTransformer)
 - [TransMVSNet] TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, CVPR'2022 [[code]](https://github.com/MegviiRobot/TransMVSNet)
-- [LightGlue] LightGlue: Local Feature Matching at Light Speed, arxiv'2023 [[code]](https://github.com/cvg/LightGlue)
+- [ConvMatch] ConvMatch: Rethinking Network Design for Two-View Correspondence Learning, AAAI'2023 [[code]](https://github.com/SuhZhang/ConvMatch)
+- [LightGlue] LightGlue: Local Feature Matching at Light Speed, arxiv'2023 [[pdf]](https://arxiv.org/pdf/2306.13643.pdf) [[code]](https://github.com/cvg/LightGlue)
+- [GlueStick] GlueStick: Robust Image Matching by Sticking Points and Lines Together, ICCV'2023 [[pdf]](https://arxiv.org/pdf/2304.02008.pdf) [[code]](https://github.com/cvg/GlueStick)
+- [DKM] DKM: Dense Kernelized Feature Matching for Geometry Estimation, CVPR'2023 [[code]](https://github.com/Parskatt/DKM)
 
 
 <a name="gmm"></a>
@@ -291,6 +294,11 @@ A list of point set matching / point set registration resources.
 - [COTR] COTR: Correspondence Transformer for Matching Across Images, ICCV'2021 [[code]](https://github.com/ubc-vision/COTR)
 - [CHM] Convolutional Hough Matching Networks, CVPR'2021 [[code]](https://github.com/juhongm999/chm)
 - [Key.Net] Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters Revisited, TPAMI'2022 [[code]](https://github.com/axelBarroso/Key.Net-Pytorch)
+- [DeDoDe] DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching, arxiv'2023 [[pdf]](https://arxiv.org/pdf/2308.08479.pdf) [[code]](https://github.com/Parskatt/DeDoDe)
+- [DarkFeat] DarkFeat: Noise-Robust Feature Detector and Descriptor for Extremely Low-Light RAW Images, AAAI'2023 [[code]](https://github.com/THU-LYJ-Lab/DarkFeat)
+  
+
+
 
 
 
