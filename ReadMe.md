@@ -171,6 +171,8 @@ A list of point set matching / point set registration resources.
 - [QATM] QATM: Quality-Aware Template Matching For Deep Learning, CVPR'2019 [[pdf]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_QATM_Quality-Aware_Template_Matching_for_Deep_Learning_CVPR_2019_paper.pdf) [[code]](https://github.com/cplusx/QATM)
 - [VBPSR] Robust Variational Bayesian Point Set Registration, ICCV'2019 [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Robust_Variational_Bayesian_Point_Set_Registration_ICCV_2019_paper.pdf)
 - [BCPD] A Bayesian Formulation of Coherent Point Drift, TPAMI'2020 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8985307) [[code]](https://github.com/ohirose/bcpd)
+- [BCPD++] Acceleration of non-rigid point set registration with
+downsampling and Gaussian process regression, TPAMI'2021 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9290402)
 - [StickyPillars] StickyPillars: Robust feature matching on point clouds using Graph Neural Networks, arXiv'2020 [[pdf]](https://arxiv.org/pdf/2002.03983)
 - [Pointpwc-net] Pointpwc-net: Cost volume on point clouds for (self-) supervised scene flow estimation, ECCV'2020 [[code](https://github.com/DylanWusee/PointPWC)]
 - [DGR] Deep Global Registration, CVPR'2020 [[code](https://github.com/chrischoy/DeepGlobalRegistration)]
@@ -187,9 +189,12 @@ A list of point set matching / point set registration resources.
 - [FastRobustICP] Fast and Robust Iterative Closest Point, TPAMI'2021 [[code](https://github.com/yaoyx689/Fast-Robust-ICP)]
 - [GeoTransformer] Geometric Transformer for Fast and Robust Point Cloud Registration, CVPR'2022 [[code]](https://github.com/qinzheng93/GeoTransformer)
 - [Lepard] Lepard: Learning partial point cloud matching in rigid and deformable scenes, CVPR'2022 [[code]](https://github.com/rabbityl/lepard)
-- [CFI2P] CFI2P: Coarse-to-Fine Cross-Modal Correspondence Learning for Image-to-Point Cloud Registration, arxiv'2023
+- [CFI2P] CFI2P: Coarse-to-Fine Cross-Modal Correspondence Learning for Image-to-Point Cloud Registration, arxiv'2023 [[pdf]](https://arxiv.org/pdf/2307.07142.pdf)
 - [GraphSCNet] Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration, CVPR'2023 [[code]](https://github.com/qinzheng93/GraphSCNet)
- 
+- [QGORE] QGORE: Quadratic-time guaranteed outlier removal for point cloud registration, TPAMI'2023 [[pdf]](https://www.researchgate.net/profile/Jiayuan-Li/publication/369805469_QGORE_Quadratic-Time_Guaranteed_Outlier_Removal_for_Point_Cloud_Registration/links/64353cccad9b6d17dc4e931d/QGORE-Quadratic-Time-Guaranteed-Outlier-Removal-for-Point-Cloud-Registration.pdf)
+- [NDP] Non-rigid Point Cloud Registration with Neural Deformation Pyramid, NIPS'2022 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/b2077e6d66da612fcb701589efa9ce88-Paper-Conference.pdf) [[code]](https://github.com/rabbityl/DeformationPyramid)
+- [GBCPD] Geodesic-based bayesian coherent point drift, TPAMI'2022 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9918058)
+- [AMM-NRR] Fast and Robust Non-Rigid Registration Using Accelerated Majorization-Minimization, TPAMI'2023 [[pdf]](https://arxiv.org/pdf/2206.03410.pdf)[[code]](https://github.com/yaoyx689/AMM_NRR)
 
 <a name="mrm"></a>
 ### Feature Matching/Mismatch Removing/Correspondence Learning/Pruning
