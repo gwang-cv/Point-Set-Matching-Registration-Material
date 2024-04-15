@@ -186,7 +186,9 @@ A list of point set matching / point set registration resources.
 - [DFM] DFM: A Performance Baseline for Deep Feature Matching, CVPR'2021 [[code]](https://github.com/ufukefe/DFM)
 - [FastRobustICP] Fast and Robust Iterative Closest Point, TPAMI'2021 [[code](https://github.com/yaoyx689/Fast-Robust-ICP)]
 - [GeoTransformer] Geometric Transformer for Fast and Robust Point Cloud Registration, CVPR'2022 [[code]](https://github.com/qinzheng93/GeoTransformer)
-
+- [Lepard] Lepard: Learning partial point cloud matching in rigid and deformable scenes, CVPR'2022 [[code]](https://github.com/rabbityl/lepard)
+- 
+- 
 
 
 <a name="mrm"></a>
@@ -233,6 +235,7 @@ A list of point set matching / point set registration resources.
 - [GLOF] Robust Feature Matching Using Guided Local Outlier Factor, PR'2021 [[pdf](https://www.sciencedirect.com/science/article/pii/S0031320321001734)] [[code](https://github.com/gwang-cv/GLOF)]
 - [CAT] Correspondence Attention Transformer: A Context-sensitive Network for Two-view Correspondence Learning, TMM'2022 [[code]](https://github.com/jiayi-ma/CorresAttnTransformer)
 - [TransMVSNet] TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, CVPR'2022 [[code]](https://github.com/MegviiRobot/TransMVSNet)
+- [ResMatch] ResMatch: Residual Attention Learning for Local Feature Matching, AAAI'2024[pdf][code]
 
 
 <a name="gmm"></a>
