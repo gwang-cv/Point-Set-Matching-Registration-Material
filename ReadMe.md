@@ -235,10 +235,7 @@ A list of point set matching / point set registration resources.
 - [GLOF] Robust Feature Matching Using Guided Local Outlier Factor, PR'2021 [[pdf](https://www.sciencedirect.com/science/article/pii/S0031320321001734)] [[code](https://github.com/gwang-cv/GLOF)]
 - [CAT] Correspondence Attention Transformer: A Context-sensitive Network for Two-view Correspondence Learning, TMM'2022 [[code]](https://github.com/jiayi-ma/CorresAttnTransformer)
 - [TransMVSNet] TransMVSNet: Global Context-aware Multi-view Stereo Network with Transformers, CVPR'2022 [[code]](https://github.com/MegviiRobot/TransMVSNet)
-<<<<<<< HEAD
 - [ResMatch] ResMatch: Residual Attention Learning for Local Feature Matching, AAAI'2024[pdf][code]
-
-=======
 - [ConvMatch] ConvMatch: Rethinking Network Design for Two-View Correspondence Learning, AAAI'2023 [[code]](https://github.com/SuhZhang/ConvMatch)
 - [LightGlue] LightGlue: Local Feature Matching at Light Speed, arxiv'2023 [[pdf]](https://arxiv.org/pdf/2306.13643.pdf) [[code]](https://github.com/cvg/LightGlue)
 - [GlueStick] GlueStick: Robust Image Matching by Sticking Points and Lines Together, ICCV'2023 [[pdf]](https://arxiv.org/pdf/2304.02008.pdf) [[code]](https://github.com/cvg/GlueStick)
@@ -250,7 +247,6 @@ A list of point set matching / point set registration resources.
 - [AdaMatcher] Adaptive Assignment for Geometry Aware Local Feature Matching, CVPR'2023 [[code]](https://github.com/AbyssGaze/AdaMatcher)
 - [SEM] Structured Epipolar Matcher for Local Feature Matching, CVPR'2023 [[code]](https://sem2023.github.io/)
 - [FSNet] Two-View Geometry Scoring Without Correspondences, CVPR'2023 [[code]](https://github.com/nianticlabs/scoring-without-correspondences)
->>>>>>> 083e93b99cc6dfc20c14adae9c04669cfe1390da
 
 <a name="gmm"></a>
 ### Graph Matching Methods
