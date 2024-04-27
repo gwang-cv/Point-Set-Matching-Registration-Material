@@ -194,7 +194,11 @@ downsampling and Gaussian process regression, TPAMI'2021 [[pdf]](https://ieeexpl
 - [QGORE] QGORE: Quadratic-time guaranteed outlier removal for point cloud registration, TPAMI'2023 [[pdf]](https://www.researchgate.net/profile/Jiayuan-Li/publication/369805469_QGORE_Quadratic-Time_Guaranteed_Outlier_Removal_for_Point_Cloud_Registration/links/64353cccad9b6d17dc4e931d/QGORE-Quadratic-Time-Guaranteed-Outlier-Removal-for-Point-Cloud-Registration.pdf)
 - [NDP] Non-rigid Point Cloud Registration with Neural Deformation Pyramid, NIPS'2022 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/b2077e6d66da612fcb701589efa9ce88-Paper-Conference.pdf) [[code]](https://github.com/rabbityl/DeformationPyramid)
 - [GBCPD] Geodesic-based bayesian coherent point drift, TPAMI'2022 [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9918058)
-- [AMM-NRR] Fast and Robust Non-Rigid Registration Using Accelerated Majorization-Minimization, TPAMI'2023 [[pdf]](https://arxiv.org/pdf/2206.03410.pdf)[[code]](https://github.com/yaoyx689/AMM_NRR)
+- [GBCPD] Generalized Point Set Registration with Fuzzy Correspondences Based on Variational Bayesian Inference, TFS'2022 [[pdf]](https://discovery.ucl.ac.uk/id/eprint/10150632/1/Min_IEEE_Fuzzy_final_submission.pdf)
+- [AMM-NRR] Fast and Robust Non-Rigid Registration Using Accelerated Majorization-Minimization, TPAMI'2023 [[pdf]](https://arxiv.org/pdf/2206.03410.pdf) [[code]](https://github.com/yaoyx689/AMM_NRR)
+- [CryoAlign] Accurate global and local 3D alignment of cryo-EM density maps using local spatial structural features, Nature Communications'2024 [[pdf]](https://www.nature.com/articles/s41467-024-45861-4.pdf) [[code]](https://github.com/HeracleBT/CryoAlign)
+
+
 
 <a name="mrm"></a>
 ### Feature Matching/Mismatch Removing/Correspondence Learning/Pruning
