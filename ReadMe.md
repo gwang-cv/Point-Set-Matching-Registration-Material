@@ -8,7 +8,7 @@ A list of point set matching / point set registration resources.
   - [Table of Contents](#table-of-contents)
   - [Point Set Matching/Registration Methods](#point-set-matchingregistration-methods)
     - [Point Matching/Registration Methods](#point-matchingregistration-methods)
-    - [Mismatch Removal/Correspondence Pruning Methods](#mismatch-removalcorrespondence-pruning-methods)
+    - [Feature Matching/Mismatch Removing/Correspondence Learning/Pruning](#feature-matchingmismatch-removingcorrespondence-learningpruning)
     - [Graph Matching Methods](#graph-matching-methods)
     - [Misc](#misc)
     - [Deep Features](#deep-features)
